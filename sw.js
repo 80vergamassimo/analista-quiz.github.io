@@ -1,8 +1,13 @@
 // sw.js — cache dell'app nella sola build pubblica (GitHub Pages).
 //
-// Non si modifica a mano: i tre segnaposto qui sotto sono sostituiti da
+// Non si modifica a mano: i quattro segnaposto qui sotto sono sostituiti da
 // tools/quiz/esporta-pubblico.mjs, che conosce l'elenco esatto dei file
-// esportati e ne calcola l'hash.
+// esportati e ne calcola l'hash. Nel repo privato questo file sta in
+// tools/quiz/, ma l'export lo scrive nella RADICE del sito: uno script di
+// radice è l'unico che può avere scope `/` e quindi coprire anche la pagina
+// di rimbalzo della radice — che è quella che iOS installa se si aggiunge
+// alla schermata Home da «lm77-quiz.github.io» invece che da «…/tools/quiz/».
+// I percorsi di GUSCIO e DATI sono quindi relativi alla radice del sito.
 //
 // Perché esiste: la build pubblica è una PWA installabile su Android e iOS, e
 // una PWA senza service worker non si installa e non funziona offline. Nel
@@ -12,37 +17,41 @@
 // se il service worker del repo privato finisse registrato per sbaglio, si
 // disinstalla da solo invece di servire un guscio che non gli appartiene.
 
-const VERSIONE = '93052ab28437';
+const VERSIONE = '33cb286cfedc';
 const GUSCIO = [
   "./",
-  "./config-pubblico.json",
-  "./css/style.css",
-  "./icone/apple-touch-icon.png",
-  "./icone/icona-192.png",
-  "./icone/icona-512.png",
   "./index.html",
-  "./js/app.js",
-  "./js/discovery.js",
-  "./js/dom.js",
-  "./js/engine.js",
-  "./js/md-doc.js",
-  "./js/md-inline.js",
-  "./js/md-page.js",
-  "./js/md-render.js",
-  "./js/parse-flashcards.js",
-  "./js/parse-quiz.js",
-  "./js/screens/config.js",
-  "./js/screens/quiz.js",
-  "./js/screens/results.js",
-  "./js/storage.js",
-  "./js/sync.js",
-  "./manifest.webmanifest"
+  "./tools/quiz/",
+  "./tools/quiz/config-pubblico.json",
+  "./tools/quiz/css/style.css",
+  "./tools/quiz/icone/apple-touch-icon.png",
+  "./tools/quiz/icone/icona-192.png",
+  "./tools/quiz/icone/icona-512.png",
+  "./tools/quiz/index.html",
+  "./tools/quiz/js/app.js",
+  "./tools/quiz/js/discovery.js",
+  "./tools/quiz/js/dom.js",
+  "./tools/quiz/js/engine.js",
+  "./tools/quiz/js/md-doc.js",
+  "./tools/quiz/js/md-inline.js",
+  "./tools/quiz/js/md-page.js",
+  "./tools/quiz/js/md-render.js",
+  "./tools/quiz/js/parse-flashcards.js",
+  "./tools/quiz/js/parse-quiz.js",
+  "./tools/quiz/js/screens/config.js",
+  "./tools/quiz/js/screens/quiz.js",
+  "./tools/quiz/js/screens/results.js",
+  "./tools/quiz/js/storage.js",
+  "./tools/quiz/js/sync.js",
+  "./tools/quiz/manifest.webmanifest"
 ];
 const DATI = [
-  "./exams.json",
-  "../../exams/analisi-dei-mercati-finanziari/flashcards.md",
-  "../../exams/analisi-dei-mercati-finanziari/domande-esame.md"
+  "./tools/quiz/exams.json",
+  "./exams/analisi-dei-mercati-finanziari/flashcards.md",
+  "./exams/analisi-dei-mercati-finanziari/domande-esame.md"
 ];
+// Dove sta l'app vera: è il ripiego di ogni navigazione che non si trova.
+const APP = './tools/quiz/index.html';
 
 // Il confronto è su `__`, non sul token intero: così la sostituzione
 // dell'export non riscrive anche il proprio guardiano.
@@ -122,14 +131,27 @@ async function rivalidando(e, req) {
   return salvata || (await rete) || Response.error();
 }
 
-/** Navigazioni: rete, e offline la index del guscio. */
+/**
+ * Navigazioni: prima la cache, poi la rete, e in ultimo l'app.
+ *
+ * Cache prima e non rete prima perché è ciò che fa partire l'app installata
+ * senza rete, che è tutto il punto della PWA; i contenuti nuovi arrivano lo
+ * stesso, perché il browser rilegge sw.js a ogni navigazione e un export
+ * nuovo ne cambia l'hash, quindi il guscio si rinnova al giro dopo.
+ *
+ * Il ripiego finale è l'index dell'APP, non quella della radice: la radice è
+ * solo un rimbalzo, e servirla come ripiego per una navigazione dentro l'app
+ * la farebbe ripartire dal principio.
+ */
 async function navigazione(req) {
+  const guscio = await caches.open(CACHE_GUSCIO);
+  const salvata = await guscio.match(req, { ignoreVary: true });
+  if (salvata) return salvata;
   try {
     const res = await fetch(req);
     if (res) return res;
   } catch (err) { /* offline */ }
-  const guscio = await caches.open(CACHE_GUSCIO);
-  return (await guscio.match('./index.html', { ignoreVary: true })) || Response.error();
+  return (await guscio.match(APP, { ignoreVary: true })) || Response.error();
 }
 
 /**

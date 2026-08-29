@@ -3,7 +3,7 @@
 // Config → Quiz → Riepilogo. "Ripassa errori" rientra nel flusso Quiz.
 // Nessun handler inline: tutti i listener sono registrati qui o nelle schermate.
 
-import { loadManifest, loadExam, resolveNotes, fetchRemoteLog, loadConfig, appUrl } from './discovery.js';
+import { loadManifest, loadExam, resolveNotes, fetchRemoteLog, loadConfig, appUrl, repoUrl } from './discovery.js';
 import { probe, fetchServerLog, pushSessions, sessionsToPush } from './sync.js';
 import * as storage from './storage.js';
 import {
@@ -569,15 +569,33 @@ function resetLog() {
  */
 async function registraServiceWorker() {
   if (!('serviceWorker' in navigator)) return;
-  const scope = appUrl('');
+  const app = appUrl('');
+  // Il service worker sta nella RADICE del sito, non accanto all'app: solo da
+  // lì può avere scope `/` e quindi coprire anche la pagina di rimbalzo della
+  // radice, che è ciò che iOS installa se si aggiunge alla schermata Home da
+  // «lm77-quiz.github.io» invece che da «…/tools/quiz/». Registrare uno script
+  // di radice da una pagina più interna è lecito: il vincolo è che lo scope
+  // stia sotto il percorso dello script, non sotto quello della pagina.
+  const radice = repoUrl('');
   try {
     if (state.config.pubblico) {
-      await navigator.serviceWorker.register(appUrl('sw.js'), { scope });
+      await navigator.serviceWorker.register(repoUrl('sw.js'), { scope: radice });
+      // Bonifica delle registrazioni più strette di questa: fino alla versione
+      // con la PWA ancorata alla radice il service worker stava accanto
+      // all'app, con scope /tools/quiz/. Uno scope più specifico VINCE su
+      // quello di radice, quindi finché resta continuerebbe a servire lui il
+      // guscio vecchio. Da solo sparirebbe comunque — il suo script ora dà 404
+      // e il browser disinstalla — ma non subito, e nel frattempo le due cache
+      // si cancellerebbero a vicenda.
+      for (const reg of await navigator.serviceWorker.getRegistrations()) {
+        if (reg.scope !== radice && reg.scope.startsWith(radice)) await reg.unregister();
+      }
       return;
     }
     for (const reg of await navigator.serviceWorker.getRegistrations()) {
-      // Solo i nostri: sulla stessa localhost possono girare altri progetti.
-      if (reg.scope.startsWith(scope)) await reg.unregister();
+      // Tutti quelli che controllerebbero questa pagina, di radice o d'app:
+      // sulla stessa localhost possono girare altri progetti, e quelli no.
+      if (app.startsWith(reg.scope) || reg.scope.startsWith(app)) await reg.unregister();
     }
   } catch (err) {
     // Niente PWA: l'app resta esattamente quella di prima.
