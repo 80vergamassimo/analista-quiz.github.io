@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "_commento": "Generato da tools/quiz/esporta-pubblico.mjs: i soli esami con flashcard.",
+  "exams": [
+    {
+      "slug": "analisi-dei-mercati-finanziari",
+      "nome": "Analisi dei Mercati Finanziari",
+      "anno": 1,
+      "cfu": 6
+    }
+  ]
+}

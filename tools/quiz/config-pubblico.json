@@ -1,0 +1,5 @@
+{
+  "_commento": "Generato da tools/quiz/esporta-pubblico.mjs. Nel repo privato questo file non esiste: il fetch va in 404 e l'app resta identica a prima.",
+  "pubblico": true,
+  "wiki": false
+}

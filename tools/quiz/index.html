@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Simulatore d'esame — LM-77 Banking and Finance</title>
+  <meta name="description" content="Simulatore di esame a risposta multipla e flashcard, generato dai file markdown del wiki di studio.">
+  <link rel="stylesheet" href="css/style.css">
+  <!-- Blocco PWA: vuoto qui, riempito da tools/quiz/esporta-pubblico.mjs. -->
+  <!-- pwa:inizio -->
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="theme-color" content="#1f5fbf" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#14161a" media="(prefers-color-scheme: dark)">
+  <link rel="icon" type="image/png" sizes="192x192" href="icone/icona-192.png">
+  <link rel="apple-touch-icon" href="icone/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Quiz LM-77">
+  <!-- pwa:fine -->
+</head>
+<body>
+  <header class="app-header">
+    <h1>Simulatore d'esame</h1>
+    <p class="app-subtitle" id="app-subtitle">LM-77 — Management e consulenza aziendale · Banking and Finance</p>
+  </header>
+
+  <main id="screen" class="screen" aria-live="polite"></main>
+
+  <!-- Footer: sostituito per intero dall'export pubblico (disclaimer e
+       donazioni al posto dei link a test e README, che lì non esistono). -->
+  <!-- footer:inizio -->
+  <footer class="app-footer">
+    <p>Flashcard di studio per la magistrale LM-77 <em>Management e consulenza aziendale</em>,
+       curriculum <em>Banking and Finance</em>: sintesi personali, non materiale ufficiale
+       né affiliato ad alcun ateneo.</p>
+    <p><a class="link" href="https://paypal.me/AmedeoSalvati" target="_blank" rel="noopener">Ti è utile? ☕ Offrimi un caffè</a></p>
+  </footer>
+  <!-- footer:fine -->
+
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

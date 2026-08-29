@@ -1,0 +1,21 @@
+{
+  "name": "Simulatore d'esame LM-77 — Banking and Finance",
+  "short_name": "Quiz LM-77",
+  "description": "Flashcard di studio per la magistrale LM-77 Banking and Finance.",
+  "lang": "it",
+  "dir": "ltr",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f6f7f9",
+  "theme_color": "#1f5fbf",
+  "categories": ["education"],
+  "icons": [
+    { "src": "icone/icona-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icone/icona-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icone/icona-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icone/icona-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
