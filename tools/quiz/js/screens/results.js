@@ -51,6 +51,19 @@ export function renderResults(root, ctx) {
   const exportBtn = el('button', { type: 'button', class: 'btn btn-ghost', text: 'Esporta quiz-errori.json' });
   exportBtn.addEventListener('click', () => ctx.exportLog());
   head.append(el('div', { class: 'actions actions-wrap' }, [again, exportBtn]));
+
+  // Build pubblica: qui la sessione è appena finita ed è l'unico punto in cui
+  // il valore è già stato consegnato. Deliberatamente NON nell'intestazione,
+  // che è sticky e seguirebbe chi studia per tutta la prova.
+  const donazioni = ctx.state.config && ctx.state.config.donazioni;
+  if (donazioni) {
+    head.append(el('p', { class: 'hint' }, [
+      'Sessione finita. Se il simulatore ti è utile, ',
+      el('a', { class: 'link', href: donazioni, target: '_blank', rel: 'noopener', text: '☕ offrimi un caffè' }),
+      '.',
+    ]));
+  }
+
   root.append(head);
 
   // --- dettaglio MCQ -----------------------------------------------------

@@ -12,7 +12,7 @@
 // se il service worker del repo privato finisse registrato per sbaglio, si
 // disinstalla da solo invece di servire un guscio che non gli appartiene.
 
-const VERSIONE = '6b85a111a9d3';
+const VERSIONE = '93052ab28437';
 const GUSCIO = [
   "./",
   "./config-pubblico.json",

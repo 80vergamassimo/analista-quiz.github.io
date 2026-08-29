@@ -142,7 +142,7 @@ export async function resolveNotes(entry) {
 }
 
 // Difetti sicuri: sono quelli del repo privato, dove il file non esiste.
-const CONFIG_DEFAULT = { pubblico: false, wiki: true };
+const CONFIG_DEFAULT = { pubblico: false, wiki: true, donazioni: null };
 
 /**
  * Flag della build, iniettati da `tools/quiz/esporta-pubblico.mjs` in
@@ -153,6 +153,8 @@ const CONFIG_DEFAULT = { pubblico: false, wiki: true };
  *    donazioni si accendono solo qui.
  *  - `wiki`: i materiali del corso (note, README d'esame) sono raggiungibili.
  *    Falso in pubblico, dove è stato esportato il solo flashcards.md.
+ *  - `donazioni`: URL del link di donazione, o null. Sta qui e non nel codice
+ *    perché l'indirizzo lo decide chi pubblica, non l'app.
  *
  * Non si guarda l'hostname apposta: la build pubblica dev'essere provabile in
  * locale con un `http.server` qualsiasi.
@@ -162,7 +164,11 @@ export async function loadConfig() {
   if (!res.ok) return { ...CONFIG_DEFAULT };
   try {
     const data = JSON.parse(res.text);
-    return { pubblico: data.pubblico === true, wiki: data.wiki !== false };
+    return {
+      pubblico: data.pubblico === true,
+      wiki: data.wiki !== false,
+      donazioni: typeof data.donazioni === 'string' && data.donazioni ? data.donazioni : null,
+    };
   } catch (err) {
     return { ...CONFIG_DEFAULT };
   }
