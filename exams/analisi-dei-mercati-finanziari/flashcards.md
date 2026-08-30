@@ -9323,3 +9323,331 @@
 
 **D:** ⚠️ Quali distrattori della lezione 29 vengono dal lessico obbligazionario?
 **R:** **Due nella stessa lezione**, dopo le «cedole» della lezione 28: la **duration o durata finanziaria** offerta come misura del rischio azionario (domanda 5) e il «**tasso di interesse pagato sulle emissioni obbligazionarie**» offerto come definizione del dividend yield (domanda 4). ⚠️ Sono **tre casi in due lezioni**: **il lessico del debito dentro una domanda sull'azione è un marcatore di distrattore**. ⚠️ Il rischio azionario si misura con **volatilità**, **deviazione standard**, **beta** e **value at risk** (slide 33 e 41); la **duration** è dell'obbligazione (lezione 26).
+
+## Lezione 30 — Gli Organismi Collettivi di Investimento (1)
+
+**D:** Che cosa stabiliscono le leggi in materia di attività degli intermediari?
+**R:** Slide 2: «le leggi stabiliscono in modo **rigido** la **tipologia di attività** che **ogni singolo intermediario autorizzato** può svolgere». Il transcript ne trae la conseguenza operativa: «questa tipizzazione è molto importante, ci dà un'idea di **quale intermediario può fare da tramite** nell'erogazione di servizi e prodotti» ([00:00:06]). ⚠️ Il vincolo è **per intermediario**, non per prodotto: lo stesso prodotto può essere offerto da più categorie, ma ciascuna categoria ha il proprio elenco chiuso di attività.
+**Opzione:** Stabiliscono in modo rigido la tipologia di attività che ogni singolo intermediario autorizzato può svolgere.
+**Distrattori:**
+- Stabiliscono in modo indicativo la tipologia di attività che ogni singolo intermediario autorizzato può svolgere.
+- Stabiliscono in modo rigido la tipologia di clientela a cui ogni singolo intermediario autorizzato può rivolgersi.
+- Stabiliscono in modo rigido il livello massimo delle commissioni che ogni singolo intermediario autorizzato può applicare.
+
+**D:** ⚠️ Chi può svolgere la gestione di fondi comuni di investimento propri o altrui, e chi la gestione di SICAV?
+**R:** Slide 3, e sono **due colonne diverse**: la **gestione di fondi comuni** è riservata alle **sole SGR**; la **gestione di SICAV** spetta a **SGR e SICAV**. ⚠️ Il transcript le fonde in una frase sola — «le gestioni di SICAV e di fondi comuni possono essere effettuate **solo da SGR e SICAV**» ([00:00:06]) — ma la tabella tiene le due colonne separate e la SICAV ha il SI **solo sulla propria**. Vale la slide, ed è coerente con la lezione 13, dove la **gestione collettiva del risparmio** è *riservata* alla SGR.
+**Opzione:** I fondi comuni solo le SGR; le SICAV le SGR e le SICAV stesse.
+**Distrattori:**
+- Entrambe le attività le SGR e le SICAV.
+- I fondi comuni le SGR e le SICAV; le SICAV le sole SGR.
+- I fondi comuni solo le SGR; le SICAV le sole SICAV.
+
+**D:** Quali intermediari possono svolgere la gestione di patrimoni individuali e quali la gestione delegata di fondi pensione?
+**R:** Slide 3, due righe da **quattro soggetti ciascuna**, che condividono tre nomi su quattro. **Patrimoni individuali**: **imprese bancarie, SGR, SIM e società fiduciarie**. **Fondi pensione (gestione delegata)**: **imprese bancarie, SGR, SIM e imprese assicurative**. ⚠️ Il quarto nome è ciò che discrimina: **società fiduciarie** per i patrimoni individuali, **imprese assicurative** per i fondi pensione. ⚠️ La **società fiduciaria** ha nella tabella **una sola casella in tutto**, ed è proprio la gestione di patrimoni individuali.
+**Opzione:** I patrimoni individuali imprese bancarie, SGR, SIM e società fiduciarie; i fondi pensione imprese bancarie, SGR, SIM e imprese assicurative.
+**Distrattori:**
+- I patrimoni individuali imprese bancarie, SGR, SIM e imprese assicurative; i fondi pensione imprese bancarie, SGR, SIM e società fiduciarie.
+- I patrimoni individuali imprese bancarie, SGR e SIM; i fondi pensione le sole imprese assicurative.
+- Entrambe le attività imprese bancarie, SGR, SIM, società fiduciarie e imprese assicurative.
+
+**D:** ⚠️ Che cosa possono fare le società finanziarie in materia di intermediazione finanziaria?
+**R:** Slide 3: **solo il collocamento sui mercati regolamentati**. Delle tre colonne dell'*attività di intermediazione finanziaria* — **negoziazione in proprio**, **negoziazione per conto terzi**, **collocamento** — la società finanziaria ha il SI **su una sola**. Le altre due sono di **SIM e imprese bancarie**. Il transcript lo conferma: «possono essere svolti dalle SIM, dalle imprese bancarie e dalle società finanziarie **per quanto riguarda il collocamento**» ([00:00:06]). ⚠️ Sull'**attività finanziaria non bancaria** (leasing, factoring, credito al consumo, partecipazioni, cambi, carte) le società finanziarie hanno invece **tutte e sei** le caselle, alla pari delle banche: è la riga che rischia di far generalizzare.
+**Opzione:** Solo il collocamento sui mercati regolamentati; la negoziazione, in proprio e per conto terzi, è di SIM e imprese bancarie.
+**Distrattori:**
+- Solo la negoziazione per conto terzi sui mercati regolamentati; il collocamento è di SIM e imprese bancarie.
+- Tutte e tre le attività: negoziazione in proprio, negoziazione per conto terzi e collocamento sui mercati regolamentati.
+- Nessuna: l'intermediazione finanziaria è riservata alle SIM e alle imprese bancarie.
+
+**D:** Quali attività della tabella sono riservate alle sole imprese bancarie?
+**R:** Slide 3: le due dell'**attività creditizia bancaria** — la **raccolta e gestione di depositi** e l'**erogazione del credito a breve e m/l termine**. Sono le uniche due colonne con **una sola casella riempita**. Il transcript: «sono attività **strettamente correlate** alle imprese bancarie» ([00:00:06]). ⚠️ L'impresa bancaria è per contro l'**unico soggetto presente in tutte e quattro le famiglie** di attività della tabella; le sue esclusioni sono la **gestione di SICAV**, la **gestione di fondi comuni** e la **raccolta di premi assicurativi**.
+**Opzione:** La raccolta e gestione di depositi e l'erogazione del credito a breve e m/l termine.
+**Distrattori:**
+- La raccolta e gestione di depositi e l'assunzione di partecipazioni in imprese non finanziarie.
+- L'erogazione del credito a breve e m/l termine e l'emissione e gestione di carte di credito.
+- La raccolta e gestione di depositi e la gestione di patrimoni individuali.
+
+**D:** ⚠️ Come sono definiti gli investitori istituzionali?
+**R:** Slide 4: «**soggetti che operano prevalentemente nell'ambito della gestione professionale del risparmio**». ⚠️ Il quantificatore è «**prevalentemente**», non *esclusivamente*: è il punto su cui lavora il distrattore di restrizione dell'ambito. ⚠️ E l'attività è la **gestione professionale del risparmio**, non la sua **raccolta**, che è invece il tratto dell'impresa bancaria.
+**Opzione:** Soggetti che operano prevalentemente nell'ambito della gestione professionale del risparmio.
+**Distrattori:**
+- Soggetti che operano esclusivamente nell'ambito della gestione professionale del risparmio.
+- Soggetti che operano prevalentemente nell'ambito della raccolta professionale del risparmio fra il pubblico.
+- Soggetti che operano prevalentemente nell'ambito della gestione professionale del credito alle imprese.
+
+**D:** Quali sono i principali investitori istituzionali?
+**R:** Slide 5, **quattro** e nell'ordine della slide: **fondi comuni · assicurazioni · fondi pensione · gestioni patrimoniali**. ⚠️ Sono **quattro categorie**, non quattro soggetti giuridici: le **gestioni patrimoniali** sono un servizio, non un'istituzione, e i **fondi comuni** sono un veicolo. La slide elenca **ciò che gestisce il risparmio**, non chi lo gestisce.
+**Opzione:** Fondi comuni, assicurazioni, fondi pensione e gestioni patrimoniali.
+**Distrattori:**
+- Fondi comuni, assicurazioni, fondi pensione e società fiduciarie.
+- Banche, assicurazioni, fondi pensione e gestioni patrimoniali.
+- Fondi comuni, assicurazioni, fondi pensione e fondi sovrani.
+
+**D:** ⚠️ Da che cosa può derivare l'attività svolta dall'investitore istituzionale?
+**R:** Slide 6, **due vie**: «l'attività svolta dall'investitore istituzionale può derivare da un **mandato specifico**, pertanto l'investimento avviene su **base collettiva**, come negli **OICR e nei fondi pensione**, oppure può derivare dall'**intermediazione in senso stretto**, come nel caso delle **compagnie di assicurazione relativamente alle polizze vita**». ⚠️ Ogni via porta con sé i propri esempi, e scambiarli è la torsione più immediata: gli **OICR e i fondi pensione** stanno sul **mandato**, le **polizze vita** sull'**intermediazione**.
+**Opzione:** Da un mandato specifico, con investimento su base collettiva come negli OICR e nei fondi pensione, oppure dall'intermediazione in senso stretto, come per le compagnie di assicurazione relativamente alle polizze vita.
+**Distrattori:**
+- Da un mandato specifico, con investimento su base collettiva come per le compagnie di assicurazione relativamente alle polizze vita, oppure dall'intermediazione in senso stretto, come negli OICR e nei fondi pensione.
+- Da un mandato specifico, con investimento su base individuale come negli OICR e nei fondi pensione, oppure dall'intermediazione in senso stretto, come per le compagnie di assicurazione relativamente alle polizze vita.
+- Esclusivamente da un mandato specifico, con investimento su base collettiva come negli OICR, nei fondi pensione e nelle polizze vita delle compagnie di assicurazione.
+
+**D:** Quanto vale il risparmio gestito in Italia, secondo le due slide che ne danno la misura?
+**R:** Due grandezze con **fonti e perimetri diversi**. Slide 7: «le famiglie detengono **oltre 1.5 miliardi di euro** in **fondi comuni, fondi pensione e assicurazioni**» — dato delle **relazioni annuali della Banca d'Italia** ([00:02:08]). Slide 8: «**OICR e gestioni patrimoniali superano i 2 miliardi di Euro**» — dato delle statistiche di **Assogestioni**, rilevabili anche con cadenza **mensile** ([00:02:46]). ⚠️ Le due cifre **non sono confrontabili**: cambiano sia i prodotti inclusi sia la fonte.
+**Opzione:** Le famiglie detengono oltre 1.5 miliardi in fondi comuni, fondi pensione e assicurazioni; OICR e gestioni patrimoniali superano i 2 miliardi.
+**Distrattori:**
+- Le famiglie detengono oltre 2 miliardi in fondi comuni, fondi pensione e assicurazioni; OICR e gestioni patrimoniali superano 1.5 miliardi.
+- Le famiglie detengono oltre 1.5 miliardi in fondi comuni, fondi pensione e assicurazioni; OICR e gestioni patrimoniali superano i 5 miliardi.
+- Le famiglie detengono oltre 1.5 miliardi in depositi bancari e titoli di Stato; OICR e gestioni patrimoniali superano i 2 miliardi.
+
+**D:** ⚠️ Come si ripartisce il patrimonio dell'industria del risparmio gestito italiana fra gestioni collettive e gestioni di portafoglio?
+**R:** Slide 9 (dati Assogestioni, **aprile 2020**): su **2.178.288 milioni di euro** complessivi, le **gestioni collettive** valgono **1.056.152 milioni, il 48,5 %** — di cui **fondi aperti 992.502 (45,6 %)** e **fondi chiusi 63.650 (2,9 %)** — e le **gestioni di portafoglio 1.122.136 milioni, il 51,5 %**, ripartite in **retail 124.427 (5,7 %)** e **istituzionali 997.709 (45,8 %)**. Il transcript sintetizza: «**poco meno della metà** in gestioni collettive… e il resto in gestioni di portafoglio» ([00:02:46]). ⚠️ Le collettive stanno **appena sotto** la metà: invertire le due quote produce un distrattore indistinguibile a occhio.
+**Opzione:** Le gestioni collettive sono poco meno della metà, il 48,5 %; le gestioni di portafoglio il 51,5 %.
+**Distrattori:**
+- Le gestioni collettive sono poco più della metà, il 51,5 %; le gestioni di portafoglio il 48,5 %.
+- Le gestioni collettive sono circa i due terzi, il 65 %; le gestioni di portafoglio il 35 %.
+- Le gestioni collettive sono poco meno della metà, il 48,5 %, e sono interamente costituite da fondi chiusi.
+
+**D:** Che cosa sono gli Organismi di Investimento Collettivo del Risparmio (OICR)?
+**R:** Slide 10: «sono **veicoli di investimento** che svolgono la funzione di **riunire le risorse finanziarie di una pluralità di risparmiatori in un unico patrimonio indifferenziato che viene investito in attività finanziarie**». ⚠️ Tre parole reggono la definizione ed è su quelle che si costruiscono i distrattori: **pluralità** (non il singolo risparmiatore, che è la gestione *individuale*), **indifferenziato** (non ci sono comparti per sottoscrittore) e **attività finanziarie** (l'oggetto).
+**Opzione:** Veicoli di investimento che riuniscono le risorse finanziarie di una pluralità di risparmiatori in un unico patrimonio indifferenziato, investito in attività finanziarie.
+**Distrattori:**
+- Veicoli di investimento che riuniscono le risorse finanziarie di una pluralità di risparmiatori in patrimoni distinti per sottoscrittore, investiti in attività finanziarie.
+- Veicoli di investimento che gestiscono le risorse finanziarie di un singolo risparmiatore in un patrimonio dedicato, investito in attività finanziarie.
+- Veicoli di investimento che riuniscono le risorse finanziarie di una pluralità di risparmiatori in un unico patrimonio indifferenziato, investito esclusivamente in beni immobili.
+
+**D:** ⚠️ Che cosa ricevono i sottoscrittori di un fondo comune e che cosa quelli di una SICAV?
+**R:** Slide 11, ed è la biforcazione dell'intero blocco. Nei **fondi comuni** «i sottoscrittori ricevono **quote del fondo**, che costituisce **patrimonio separato rispetto al capitale sociale della SGR**». Nelle **SICAV/SICAF** «ricevono **azioni della società**. Il **fondo patrimoniale coincide con il capitale sociale**». ⚠️ La differenza è **strutturale**: da un lato un **patrimonio separato**, dall'altro una **società vera e propria** — «non sono dei patrimoni separati ma **società vere e proprie**» ([00:03:39]). ⚠️ Nello schema, la **SGR** è la «**società che si occupa della costituzione e gestione del fondo**», e sta **solo** sul ramo dei fondi comuni.
+**Opzione:** Nei fondi comuni quote di un patrimonio separato dal capitale sociale della SGR; nelle SICAV azioni della società, il cui capitale sociale coincide con il fondo patrimoniale.
+**Distrattori:**
+- Nei fondi comuni azioni della società, il cui capitale sociale coincide con il fondo patrimoniale; nelle SICAV quote di un patrimonio separato dal capitale sociale della SGR.
+- Nei fondi comuni quote di un patrimonio che confluisce nel capitale sociale della SGR; nelle SICAV azioni della società, il cui capitale sociale coincide con il fondo patrimoniale.
+- In entrambi i casi quote di un patrimonio separato dal capitale sociale della società che lo gestisce.
+
+**D:** Dove e quando nascono i fondi comuni di investimento?
+**R:** Slide 12, due passaggi: «nell'**Ottocento in Inghilterra e Scozia** furono create **societa di investimento** che riunivano **piccole somme di risparmiatori** per investire in un **paniere diversificato di titoli**»; e «nel **1824** il **primo fondo di investimento a Boston**, che **emetteva quote man mano che si raccoglievano fondi**, con una **struttura simile a quella dei fondi odierni**». Il transcript spiega perché proprio lì: «sono i **paesi in cui le borse sono nate e si sono sviluppate per prima**» ([00:03:39]). ⚠️ La slide 13 aggiunge che «l'industria del risparmio gestito nel mondo è **esplosa dal 1980 in poi**».
+**Opzione:** Nell'Ottocento in Inghilterra e Scozia con le prime società di investimento, e nel 1824 a Boston con il primo fondo di struttura simile a quelli odierni.
+**Distrattori:**
+- Nell'Ottocento in Inghilterra e Scozia con le prime società di investimento, e nel 1924 a Boston con il primo fondo di struttura simile a quelli odierni.
+- Nell'Ottocento negli Stati Uniti con le prime società di investimento, e nel 1824 a Londra con il primo fondo di struttura simile a quelli odierni.
+- Nel Settecento in Olanda con le prime società di investimento, e nel 1824 a Boston con il primo fondo di struttura simile a quelli odierni.
+
+**D:** ⚠️ Con quale legge sono stati istituiti i fondi comuni in Italia?
+**R:** Slide 14: «i fondi comuni furono istituiti **solo con la legge 77 del 1983** (*Istituzione e disciplina dei fondi comuni di investimento*)». ⚠️ **Il numero è 77, l'anno è 1983**, e il transcript li inverte — «nel **1983**, con la legge del **1977**» ([00:03:39]). È il meccanismo della **coppia soggetto + norma**: due elementi verificabili separatamente, e basta sbagliarne uno. ⚠️ La stessa **legge 77/1983** compare nel glossario alla voce **Consob**, di cui estende le competenze «al mercato mobiliare in quanto tale»: è la stessa norma, vista dall'altro lato.
+**Opzione:** Con la legge 77 del 1983, Istituzione e disciplina dei fondi comuni di investimento.
+**Distrattori:**
+- Con la legge 83 del 1977, Istituzione e disciplina dei fondi comuni di investimento.
+- Con la legge 77 del 1993, Istituzione e disciplina dei fondi comuni di investimento.
+- Con il testo unico delle disposizioni in materia di intermediazione finanziaria del 1998.
+
+**D:** Che cosa sono i fondi comuni di investimento?
+**R:** Slide 15: «sono **strumenti di investimento**, gestiti dalle **società di gestione del risparmio (sgr)** che **riuniscono le somme di più risparmiatori** e le **investono, come un unico patrimonio, in attività finanziarie** (azioni, obbligazioni, titoli di stato, ecc.) **o, per alcuni di essi, in immobili**, rispettando **regole volte a ridurre i rischi**». ⚠️ L'inciso «**o, per alcuni di essi, in immobili**» è **parte della formula** e non un dettaglio: è la sola apertura a un investimento **non finanziario**, e anticipa i **fondi immobiliari** della slide 28.
+**Opzione:** Strumenti di investimento, gestiti dalle società di gestione del risparmio, che riuniscono le somme di più risparmiatori e le investono come un unico patrimonio in attività finanziarie o, per alcuni di essi, in immobili, rispettando regole volte a ridurre i rischi.
+**Distrattori:**
+- Strumenti di debito che consentono di accedere al mercato interbancario all'ingrosso.
+- Fondi degli enti territoriali comunali per la promozione e l'investimento sul territorio di riferimento.
+- Strumenti di investimento utilizzati da operatori professionali per la pianificazione successoria.
+
+**D:** Che cosa sono le quote di un fondo comune?
+**R:** Slide 16: il fondo è «**suddiviso in tante parti unitarie, dette quote**. Rappresentano la "**quota parte**" in cui è **suddiviso il patrimonio del fondo**. Quando si **sottoscrive** un fondo si **acquista un certo numero di quote ad un determinato prezzo**, divenendo **possessori di quote**». ⚠️ È il tratto che distingue il fondo comune dalla **SICAV**: là si ricevono **azioni** della società, qui **quote** di un patrimonio. ⚠️ Il prezzo di sottoscrizione e di rimborso è il **NAV**.
+**Opzione:** Le parti unitarie in cui è suddiviso il patrimonio del fondo; sottoscrivendo si acquista un certo numero di quote a un determinato prezzo, divenendone possessori.
+**Distrattori:**
+- Le parti unitarie in cui è suddiviso il capitale sociale della SGR; sottoscrivendo si acquista un certo numero di quote a un determinato prezzo, divenendone possessori.
+- Le parti unitarie in cui è suddiviso il patrimonio del fondo; sottoscrivendo si acquista il diritto a una quota degli utili, senza divenire possessori di alcun titolo.
+- I titoli rappresentativi del debito che il fondo contrae verso i sottoscrittori, rimborsabili a scadenza al valore nominale.
+
+**D:** ⚠️ Che cosa significa che il fondo comune è un patrimonio separato?
+**R:** Significa che il patrimonio del fondo è **distinto dal capitale sociale della SGR** che lo gestisce (slide 11), con la conseguenza che il transcript enuncia in una riga: «il patrimonio separato vuol dire che **se la SGR fallisce, il fondo non fallisce**» ([00:03:39]). ⚠️ È **l'esatto contrario** della SICAV, dove «il **fondo patrimoniale coincide con il capitale sociale**» e la separazione **non** c'è (slide 37). ⚠️ La separazione riguarda il **rapporto con la SGR**, non il rapporto fra i sottoscrittori: fra loro il patrimonio resta **indifferenziato** (slide 10).
+**Opzione:** Che il patrimonio del fondo è distinto dal capitale sociale della SGR, sicché se la SGR fallisce il fondo non fallisce.
+**Distrattori:**
+- Che il patrimonio del fondo è distinto per ciascun sottoscrittore, sicché il fallimento di un sottoscrittore non tocca gli altri.
+- Che il patrimonio del fondo confluisce nel capitale sociale della SGR, ma è vincolato a garanzia dei sottoscrittori.
+- Che il patrimonio del fondo è distinto dal capitale sociale della SGR, ma in caso di fallimento della SGR risponde dei debiti di questa.
+
+**D:** Che cosa sono i fondi aperti?
+**R:** Slide 23: «**consentono di sottoscrivere quote, o chiederne il rimborso, in qualsiasi momento. Questi fondi investono normalmente in attività finanziarie quotate**». ⚠️ Le due metà sono legate da un **nesso causale** che il transcript esplicita: «se devono investire quotidianamente o disinvestire quotidianamente **per far fronte alle richieste di riscatto, devono essere pronti a farlo**» ([00:07:35]). Un fondo aperto che investisse in attività **illiquide** non potrebbe onorare i rimborsi.
+**Opzione:** Fondi che consentono di sottoscrivere quote, o chiederne il rimborso, in qualsiasi momento, e che investono normalmente in attività finanziarie quotate.
+**Distrattori:**
+- Fondi che consentono di sottoscrivere quote, o chiederne il rimborso, in qualsiasi momento, e che investono normalmente in attività finanziarie illiquide.
+- Fondi che consentono di sottoscrivere quote, o chiederne il rimborso, solo al lancio del fondo e ad alcune date prestabilite successive, e che investono normalmente in attività finanziarie quotate.
+- Fondi rivolti solo a investitori professionali, che consentono di sottoscrivere qualsiasi tipologia di strumenti finanziari senza particolari obblighi di diversificazione.
+
+**D:** Come si calcola il NAV e a che cosa serve?
+**R:** Slide 24: «**NAV é il valore della quota di un fondo di investimento al netto delle spese di gestione**», e la formula è **NAV = ( Totale ATTIVO − Totale PASSIVO ) / Numero di quote in circolazione**. Slide 25: «l'**utilità principale** del NAV è quella di **valutare il prezzo a cui vendere nuove quote o quello a cui rimborsare quote già esistenti**». Il calcolo è **giornaliero** ([00:07:35]). ⚠️ Al numeratore c'è l'**attivo netto**, cioè attivo **meno** passivo; al denominatore le quote **in circolazione**, non quelle emesse dall'origine.
+**Opzione:** Come rapporto fra totale attivo meno totale passivo e numero di quote in circolazione; serve a valutare il prezzo a cui vendere nuove quote o rimborsare quelle esistenti.
+**Distrattori:**
+- Come rapporto fra totale attivo più totale passivo e numero di quote in circolazione; serve a valutare il prezzo a cui vendere nuove quote o rimborsare quelle esistenti.
+- Come rapporto fra totale attivo meno totale passivo e numero di quote in circolazione; serve a determinare l'ammontare delle commissioni di gestione dovute alla SGR.
+- Come rapporto fra il patrimonio del fondo e il capitale sociale della SGR; serve a valutare il prezzo a cui vendere nuove quote o rimborsare quelle esistenti.
+
+**D:** Che cosa sono i fondi chiusi?
+**R:** Slide 27: «sono dei **fondi comuni di investimento con un numero fisso di quote di partecipazione**. In questo genere di fondi il **diritto di rimborso dei partecipanti avviene solo per date predeterminate**». ⚠️ È l'**opposto strutturale** del fondo aperto, e la coppia si legge come **matrice**: *momento del rimborso* (qualsiasi momento / date predeterminate) × *natura dell'attivo* (quotato e liquido / illiquido e di lungo periodo).
+**Opzione:** Fondi comuni di investimento con un numero fisso di quote di partecipazione, in cui il diritto di rimborso dei partecipanti avviene solo per date predeterminate.
+**Distrattori:**
+- Fondi comuni di investimento con un numero fisso di quote di partecipazione, in cui il diritto di rimborso dei partecipanti può essere esercitato in qualsiasi momento.
+- Fondi comuni di investimento con un numero variabile di quote di partecipazione, in cui il diritto di rimborso dei partecipanti avviene solo per date predeterminate.
+- Fondi comuni di investimento riservati agli investitori professionali, in cui il diritto di rimborso dei partecipanti avviene solo per date predeterminate.
+
+**D:** Quali sono le caratteristiche e i principali utilizzi dei fondi chiusi?
+**R:** Slide 27. **Caratteristiche**, due: **scadenza di lungo periodo, in genere 10–15 anni** · **ammontare in ingresso generalmente superiore a quello di altri fondi**. **Principali utilizzi**, tre: **investimenti nel settore immobiliare** · **capitale di rischio delle imprese** · **investimenti nella fase di start up di un'attività**. Il transcript dà la ragione comune: sono impieghi «che hanno una **maggiore difficoltà di liquidazione** o hanno **tempi di investimento più lunghi**» ([00:08:58]), mentre nel fondo aperto «la sottoscrizione può venire anche per **mille euro**».
+**Opzione:** Scadenza di 10–15 anni e ammontare in ingresso superiore a quello di altri fondi; si usano per il settore immobiliare, il capitale di rischio delle imprese e la fase di start up di un'attività.
+**Distrattori:**
+- Scadenza di 3–5 anni e ammontare in ingresso superiore a quello di altri fondi; si usano per il settore immobiliare, il capitale di rischio delle imprese e la fase di start up di un'attività.
+- Scadenza di 10–15 anni e ammontare in ingresso inferiore a quello di altri fondi; si usano per il settore immobiliare, il capitale di rischio delle imprese e la fase di start up di un'attività.
+- Scadenza di 10–15 anni e ammontare in ingresso superiore a quello di altri fondi; si usano per i titoli di Stato, il mercato monetario e la gestione della liquidità di breve termine.
+
+**D:** Quali soggetti intervengono nella gestione di un fondo chiuso, e con quale funzione ciascuno?
+**R:** Slide 27, **tre** soggetti con **tre** funzioni distinte: la **società di gestione del risparmio** «**istituisce o gestisce i fondi di investimento**»; la **banca o società di intermediazione mobiliare** «**colloca le quote**»; la **banca depositaria** «**materialmente custodisce titoli e risorse monetarie del fondo**». ⚠️ Sono ruoli **non intercambiabili**, e scambiare *istituire* con *collocare* o *custodire* è il distrattore più naturale. ⚠️ La **banca depositaria** è un **soggetto terzo e vigilato**: è per questo che la custodia non resta in capo alla SGR.
+**Opzione:** La SGR istituisce o gestisce il fondo, la banca o SIM colloca le quote, la banca depositaria custodisce materialmente titoli e risorse monetarie del fondo.
+**Distrattori:**
+- La SGR colloca le quote, la banca o SIM istituisce o gestisce il fondo, la banca depositaria custodisce materialmente titoli e risorse monetarie del fondo.
+- La SGR istituisce o gestisce il fondo, la banca o SIM custodisce materialmente titoli e risorse monetarie, la banca depositaria colloca le quote.
+- La SGR istituisce, gestisce e colloca le quote del fondo, mentre la banca depositaria custodisce materialmente titoli e risorse monetarie del fondo.
+
+**D:** ⚠️ Che cosa sono i fondi immobiliari?
+**R:** Slide 28: «sono fondi che investono il patrimonio **esclusivamente o prevalentemente** in **beni immobili** (case, edifici commerciali e così via), **diritti reali immobiliari** e **partecipazioni in società immobiliari** in misura **non inferiore ai due terzi del valore complessivo del fondo** e possono essere istituiti **esclusivamente in forma chiusa**». ⚠️ **Quattro elementi torcibili**: i **tre oggetti** dell'investimento, la soglia dei **due terzi**, l'alternativa «**esclusivamente *o* prevalentemente**» — che è una coppia, non un solo termine — e la forma «**esclusivamente chiusa**», che è il legame con la slide 27.
+**Opzione:** Fondi che investono il patrimonio esclusivamente o prevalentemente in beni immobili, diritti reali immobiliari e partecipazioni in società immobiliari, in misura non inferiore ai due terzi del valore complessivo, e sono istituiti esclusivamente in forma chiusa.
+**Distrattori:**
+- Fondi che investono il patrimonio esclusivamente o prevalentemente in beni immobili, diritti reali immobiliari e partecipazioni in società immobiliari, in misura non inferiore alla metà del valore complessivo, e sono istituiti esclusivamente in forma chiusa.
+- Fondi che investono il patrimonio esclusivamente o prevalentemente in beni immobili, diritti reali immobiliari e partecipazioni in società immobiliari, in misura non inferiore ai due terzi del valore complessivo, e sono istituiti esclusivamente in forma aperta.
+- Fondi che investono il patrimonio esclusivamente in beni immobili, in misura non inferiore ai due terzi del valore complessivo, e sono istituiti indifferentemente in forma aperta o chiusa.
+
+**D:** Fra quali strumenti si ripartisce il mercato dei fondi immobiliari in Italia?
+**R:** Slide 29, **quattro** categorie e nell'ordine della slide: **fondi immobiliari destinati ad investitori professionali** (c.d. «**fondi riservati**») · **Siiq – Siinq**, società di investimento immobiliari **quotate e non quotate** (*Aedes, Beni Stabili, IGD – Immobiliare Grande Distribuzione, Coima Res, Nova Re*) · **fondi immobiliari destinati al pubblico** (c.d. «**fondi retail**») · **società immobiliari quotate** (*Brioschi, Compagnia Immobiliare Azionaria, Gabetti, Risanamento, Prelios*). Al **31/12/2017** il patrimonio complessivo era di «circa **66 miliardi di euro**». ⚠️ I **due gruppi di nomi propri non vanno mescolati**: le **Siiq/Siinq** e le **società immobiliari quotate** sono categorie **distinte**. ⚠️ Il transcript le chiama «le **SIC**» ([00:10:05]): vale la sigla della slide.
+**Opzione:** Fondi riservati a investitori professionali, Siiq – Siinq, fondi retail destinati al pubblico e società immobiliari quotate, per circa 66 miliardi di euro al 31/12/2017.
+**Distrattori:**
+- Fondi riservati a investitori professionali, Siiq – Siinq, fondi retail destinati al pubblico e società immobiliari quotate, per circa 660 miliardi di euro al 31/12/2017.
+- Fondi riservati a investitori professionali, fondi pensione immobiliari, fondi retail destinati al pubblico e società immobiliari quotate, per circa 66 miliardi di euro al 31/12/2017.
+- Fondi riservati a investitori professionali e fondi retail destinati al pubblico, per circa 66 miliardi di euro al 31/12/2017.
+
+**D:** ⚠️ Come si ripartisce il patrimonio dei fondi immobiliari italiani fra le quattro categorie?
+**R:** Slide 30, al **31 dicembre 2017**, sui **66 miliardi di euro**: **fondi riservati 85 % · Siiq 11 % · fondi retail 3 % · società immobiliari quotate 1 %**. È la quantificazione della frase della slide 29, «i **fondi riservati** agli investitori professionali **gestiscono la maggior parte del settore**». ⚠️ Il **retail è marginale**, ed è il contrario di quanto ci si aspetterebbe: il transcript spiega che «l'investitore retail a bassi capitali **ha già una casa di proprietà**, quindi **non vuole diversificare anche in fondi immobiliari**» ([00:10:05]).
+**Opzione:** Fondi riservati 85 %, Siiq 11 %, fondi retail 3 %, società immobiliari quotate 1 %.
+**Distrattori:**
+- Fondi riservati 85 %, fondi retail 11 %, Siiq 3 %, società immobiliari quotate 1 %.
+- Fondi retail 85 %, Siiq 11 %, fondi riservati 3 %, società immobiliari quotate 1 %.
+- Fondi riservati 50 %, Siiq 25 %, fondi retail 20 %, società immobiliari quotate 5 %.
+
+**D:** Come sono investiti i patrimoni dei fondi immobiliari italiani?
+**R:** Slide 31 (*asset allocation*, valori % al **31 dicembre 2017**): **uffici 63 % · commerciale 19 % · residenziale/altro 10 % · logistica/industriale 4 % · sviluppo/aree 4 %**. Il transcript sintetizza: «la gran parte degli investimenti dei fondi immobiliari sono in **immobili a reddito**, quindi tipicamente **uffici o aree commerciali**» ([00:10:50]). ⚠️ Il **residenziale è marginale**, il **10 %** insieme ad «altro»: i fondi immobiliari italiani non comprano case, comprano **reddito**.
+**Opzione:** Uffici 63 %, commerciale 19 %, residenziale e altro 10 %, logistica e industriale 4 %, sviluppo e aree 4 %.
+**Distrattori:**
+- Residenziale e altro 63 %, commerciale 19 %, uffici 10 %, logistica e industriale 4 %, sviluppo e aree 4 %.
+- Uffici 63 %, residenziale e altro 19 %, commerciale 10 %, sviluppo e aree 4 %, logistica e industriale 4 %.
+- Uffici 40 %, commerciale 30 %, residenziale e altro 20 %, logistica e industriale 5 %, sviluppo e aree 5 %.
+
+**D:** Quali sono i costi da valutare quando si acquista un fondo?
+**R:** Slide 32, **cinque** voci nell'ordine della slide: **commissioni di ingresso**, «al momento dell'**acquisto della quota**» · **commissioni di gestione**, «**costi ricorrenti (tipicamente annuali)** legati all'**amministrazione del fondo**» · **commissioni di performance**, «**proporzionali ad alcuni risultati raggiunti** dallo strumento» · **commissioni d'uscita**, «al momento della **vendita della quota**» · **altri costi**. Il criterio ripetuto a lato di tutte e tre le slide sui costi: «**devono essere coerenti con le capacità offerte (servizio)**». ⚠️ La voce di chiusura è il generico «**altri costi**», ed è il bersaglio naturale della *coda sostituita*.
+**Opzione:** Commissioni di ingresso, di gestione, di performance, d'uscita e altri costi.
+**Distrattori:**
+- Commissioni di ingresso, di gestione, di performance, d'uscita e imposta di bollo sul dossier titoli.
+- Commissioni di ingresso, di gestione, di collocamento, d'uscita e altri costi.
+- Commissioni di ingresso, di gestione e d'uscita: le commissioni di performance non sono ammesse nei fondi comuni.
+
+**D:** ⚠️ Che cosa sono i costi direttamente sostenuti dall'investitore e da che cosa dipende il loro ammontare?
+**R:** Slide 33: «includono le **commissioni di ingresso** pagate al momento della **sottoscrizione delle quote** e quelle di **uscita** pagate al momento del **riscatto**. Solitamente **le prime decrescono con l'aumentare dell'entità dell'investimento** mentre **le secondo [seconde] diminuiscono in funzione del periodo di permanenza nel fondo**. Sono delle **componenti opzionali** in quanto **non tutti i fondi ne prevedono l'applicazione**». ⚠️ **I due criteri sono diversi e vanno tenuti distinti**: ingresso → **entità dell'investimento**; uscita → **periodo di permanenza**. Il transcript li appiattisce entrambi sull'ammontare ([00:11:44]), ma la slide li separa, ed è una matrice 2×2 già pronta per un distrattore.
+**Opzione:** Le commissioni di ingresso e di uscita: le prime decrescono con l'aumentare dell'entità dell'investimento, le seconde in funzione del periodo di permanenza nel fondo; sono componenti opzionali.
+**Distrattori:**
+- Le commissioni di ingresso e di uscita: le prime decrescono in funzione del periodo di permanenza nel fondo, le seconde con l'aumentare dell'entità dell'investimento; sono componenti opzionali.
+- Le commissioni di ingresso e di uscita: entrambe decrescono con l'aumentare dell'entità dell'investimento; sono componenti obbligatorie previste da tutti i fondi.
+- Le commissioni di gestione e di performance: le prime decrescono con l'aumentare dell'entità dell'investimento, le seconde in funzione del periodo di permanenza nel fondo; sono componenti opzionali.
+
+**D:** Che cos'è il TER e che cosa comprende?
+**R:** Slide 34: i costi «**indirettamente sostenuti dai sottoscrittori**» vengono «**periodicamente decurtati dal valore delle quote del fondo comune**»; «questi oneri sono denominati **Total Expense Ratio (TER)** e includono le **commissioni di gestione e di incentivo**, la **remunerazione della banca depositaria** e gli **altri oneri residuali**». Il transcript dà l'esempio: «il fondo invece di quotare **100**, quoterà **99,50**» ([00:11:58]). ⚠️ Il TER **non comprende** le commissioni di **ingresso e uscita**, che sono i costi **diretti**: aggiungerle produce il **TSC**, il costo complessivo.
+**Opzione:** I costi indirettamente sostenuti dai sottoscrittori, decurtati periodicamente dal valore delle quote: commissioni di gestione e di incentivo, remunerazione della banca depositaria e altri oneri residuali.
+**Distrattori:**
+- I costi direttamente sostenuti dai sottoscrittori, pagati alla sottoscrizione e al riscatto: commissioni di ingresso e di uscita, remunerazione della banca depositaria e altri oneri residuali.
+- I costi indirettamente sostenuti dai sottoscrittori, decurtati periodicamente dal valore delle quote: commissioni di ingresso e di uscita, remunerazione della banca depositaria e altri oneri residuali.
+- I costi indirettamente sostenuti dai sottoscrittori, decurtati periodicamente dal valore delle quote: le sole commissioni di gestione, al netto della remunerazione della banca depositaria.
+
+**D:** ⚠️ Che differenza c'è fra TER e TSC, e quanto pesano?
+**R:** Il **TER** è la sola componente **indiretta** (slide 34); il **TSC** è «il **costo complessivo** tenuto conto **anche dei costi direttamente sostenuti dal sottoscrittore**» ([00:12:39]), cioè **TER + commissioni di sottoscrizione e riscatto**. Slide 35, dati **2005–2016** su segnalazioni di vigilanza: il **TER** oscilla fra circa **1,3 % e 1,55 %** del patrimonio, il **TSC** fra circa **1,45 % e 1,93 %**, con il massimo nel **2015**; in valore assoluto si passa da circa **5.000 milioni di euro** (2005) a circa **2.000** (2012) e si risale a circa **3.400** (2016) — «circa **3 miliardi di euro** di commissioni distribuite sul sistema del risparmio» ([00:13:16]). ⚠️ Nel grafico, **la differenza fra le due barre è la componente diretta**.
+**Opzione:** Il TER è la sola componente indiretta, il TSC è il costo complessivo che include anche le commissioni di sottoscrizione e riscatto; insieme pesano intorno all'1,5 % del patrimonio.
+**Distrattori:**
+- Il TSC è la sola componente indiretta, il TER è il costo complessivo che include anche le commissioni di sottoscrizione e riscatto; insieme pesano intorno all'1,5 % del patrimonio.
+- Il TER è la sola componente indiretta, il TSC è il costo complessivo che include anche le commissioni di sottoscrizione e riscatto; insieme pesano intorno al 5 % del patrimonio.
+- Il TER è la sola componente diretta, pagata alla sottoscrizione, il TSC quella indiretta, decurtata dal valore della quota; insieme pesano intorno all'1,5 % del patrimonio.
+
+**D:** Che cosa bisogna valutare nella scelta di un fondo?
+**R:** Slide 36: «la **capacità dei gestori di effettuare il proprio servizio con continuità ed efficacia** (**performance, confronto con mercato e competitors, costi, rischio**..)», e «oltre l'aiuto di **intermediari finanziari e consulenti**, sta nascendo una **vera e propria industria di valutazione delle competenze**». Il transcript nomina **Morningstar**, «che dà una valutazione da **1 a 5 stelle**», e **Fitch**, «con le **coroncine da 1 a 5**» ([00:13:24]). ⚠️ **Il costo non è il solo criterio**: «possiamo pagare anche dei **costi elevati purché ci sia una capacità superiore di gestione**».
+**Opzione:** La capacità dei gestori di effettuare il servizio con continuità ed efficacia: performance, confronto con mercato e competitors, costi, rischio.
+**Distrattori:**
+- Esclusivamente il livello dei costi, misurato dal TER e dal TSC del fondo.
+- La capacità dei gestori di effettuare il servizio con continuità ed efficacia: performance, confronto con mercato e competitors, costi, rischio, purché il fondo abbia almeno cinque anni di storia.
+- La dimensione del patrimonio gestito e l'appartenenza del gestore a un gruppo bancario italiano.
+
+**D:** Che cosa sono le SICAV?
+**R:** Slide 37: acronimo di **società di investimento a capitale variabile**, «**non prevedono la distinzione tra il patrimonio del fondo e quello della società che lo gestisce**». Di conseguenza «i sottoscrittori **non sono solo dei soggetti passivi che investono soltanto ma anche azionisti a tutti gli effetti della società**, con tutto ciò che questo comporta (come per esempio il **diritto di voto nelle assemblee dei soci**)». ⚠️ **Due torsioni immediate** su questa formula: **togliere il «non»**, e si ottiene la definizione del **fondo comune**; **cambiare l'oggetto** in «patrimonio del fondo e quello **dei sottoscrittori**», e si ottiene una frase che non descrive nulla.
+**Opzione:** Società di investimento a capitale variabile che non prevedono la distinzione tra il patrimonio del fondo e quello della società che lo gestisce.
+**Distrattori:**
+- Società di investimento a capitale variabile che prevedono la distinzione tra il patrimonio del fondo e quello della società che lo gestisce.
+- Società di investimento a capitale variabile che non prevedono la distinzione tra il patrimonio del fondo e quello dei sottoscrittori del fondo.
+- Società di professionisti che investono in fondi illiquidi senza distinzione tra capitale dei soci e fondo.
+
+**D:** ⚠️ Quali norme disciplinano le SICAV in Italia?
+**R:** Slide 37, **tre fonti in fila**: «sono state introdotte nell'**ordi[na]mento italiano** dal **d.lgs. 25 gennaio 1992, n. 84**, in attuazione della **direttiva europea 85/611/CEE**, e sono attualmente regolate dal **testo unico delle disposizioni in materia di intermediazione finanziaria del 1998**». ⚠️ È materiale da **coppia soggetto + norma**: un distrattore ne sbaglia **una sola** — l'anno della direttiva, il numero del decreto, o il **TUB** al posto del **TUF**. ⚠️ Il decreto è del **1992**, la direttiva del **1985**: la norma nazionale **attua** quella europea, quindi viene **dopo**.
+**Opzione:** Il d.lgs. 25 gennaio 1992 n. 84, in attuazione della direttiva europea 85/611/CEE, e oggi il testo unico delle disposizioni in materia di intermediazione finanziaria del 1998.
+**Distrattori:**
+- Il d.lgs. 25 gennaio 1992 n. 84, in attuazione della direttiva europea 85/611/CEE, e oggi il testo unico bancario del 1993.
+- Il d.lgs. 25 gennaio 1985 n. 84, in attuazione della direttiva europea 92/611/CEE, e oggi il testo unico delle disposizioni in materia di intermediazione finanziaria del 1998.
+- La legge 77 del 1983, in attuazione della direttiva europea 85/611/CEE, e oggi il testo unico delle disposizioni in materia di intermediazione finanziaria del 1998.
+
+**D:** ⚠️ Che cosa sono gli ETF?
+**R:** Slide 38: «acronimo di **Exchange Traded Funds**, sono **fondi o SICAV a basse commissioni di gestione negoziati in Borsa come le normali azioni**. Hanno come **unico obiettivo** quello di **replicare fedelmente l'andamento e quindi il rendimento di indici azionari, obbligazionari o di materie prime**». ⚠️ La slide dice «**fondi *o SICAV***»: il transcript parla solo di «un particolare tipo di **fondo comune**» ([00:15:35]), ma i veicoli ammessi sono **due**. ⚠️ «**Unico obiettivo**» è un quantificatore assoluto che qui la slide scrive davvero, ed è la definizione stessa di prodotto **passivo**: l'ETF non cerca di **battere** l'indice, lo **replica**.
+**Opzione:** Fondi o SICAV a basse commissioni di gestione negoziati in Borsa come le normali azioni, con l'unico obiettivo di replicare fedelmente l'andamento di indici azionari, obbligazionari o di materie prime.
+**Distrattori:**
+- Fondi o SICAV a basse commissioni di gestione negoziati in Borsa come le normali azioni, con l'obiettivo di superare stabilmente l'andamento di indici azionari, obbligazionari o di materie prime.
+- Fondi o SICAV a elevate commissioni di gestione negoziati fuori Borsa presso il proprio intermediario, con l'unico obiettivo di replicare fedelmente l'andamento di indici azionari, obbligazionari o di materie prime.
+- Contratti derivati a basse commissioni negoziati in Borsa come le normali azioni, con l'unico obiettivo di replicare fedelmente l'andamento di indici azionari, obbligazionari o di materie prime.
+
+**D:** Da quando gli ETF sono disponibili in Italia e su quale mercato si negoziano?
+**R:** Slide 39: «**nati negli Stati Uniti nei primi anni '90**, gli ETF sono entrati a far parte dei titoli a disposizione degli **investitori italiani a partire dal settembre 2002**. Il **mercato regolamentato gestito da Borsa Italiana** e dedicato a questi strumenti si chiama **ETFplus**». ⚠️ Tre elementi verificabili separatamente — **paese d'origine**, **anno d'arrivo in Italia**, **nome del mercato** —, e un distrattore ne sbaglia uno solo. ⚠️ **ETFplus è un mercato regolamentato**, non un segmento né una piattaforma alternativa.
+**Opzione:** Dal settembre 2002, sul mercato regolamentato ETFplus gestito da Borsa Italiana; sono nati negli Stati Uniti nei primi anni '90.
+**Distrattori:**
+- Dal settembre 2002, sul mercato regolamentato MTS gestito da Borsa Italiana; sono nati negli Stati Uniti nei primi anni '90.
+- Dal settembre 1992, sul mercato regolamentato ETFplus gestito da Borsa Italiana; sono nati negli Stati Uniti nei primi anni '80.
+- Dal settembre 2002, sul mercato regolamentato ETFplus gestito da Borsa Italiana; sono nati nel Regno Unito nei primi anni '90.
+
+**D:** ⚠️ Come si negoziano gli ETF e in che rapporto sta il loro prezzo con il NAV?
+**R:** Slide 40: «grazie alla **negoziazione in tempo reale in Borsa**, gli ETF possono essere **acquistati e venduti come se fossero delle azioni tramite la propria banca o il proprio broker**»; quanto al prezzo, «l'ETF **può essere scambiato a premio** (quando il **prezzo è superiore al NAV**) **oppure a sconto** (quando il **prezzo è inferiore al NAV**); le **differenze dovrebbero essere contenute**». ⚠️ **Premio e sconto sono parole di direzione**: premio = prezzo **sopra**, sconto = prezzo **sotto**. ⚠️ Il verbo è «**può**», non «deve»: un'opzione che imponga lo scambio **al NAV** — del giorno prima o del giorno dopo — nega la negoziazione **in tempo reale**. Lo scarto resta piccolo perché «altrimenti ci sarebbero degli **arbitraggi**» ([00:17:21]).
+**Opzione:** Si comprano e vendono tramite la propria banca o il proprio broker, e possono essere scambiati a premio oppure a sconto rispetto al NAV.
+**Distrattori:**
+- Si comprano e vendono tramite la propria banca o il proprio broker, ma devono essere scambiati sempre al valore di NAV del giorno prima.
+- Si comprano e vendono tramite la propria banca o il proprio broker, ma devono essere scambiati sempre al valore di NAV del giorno dopo.
+- Non sono scambiabili, ma possono essere rimborsati a scadenze predeterminate, a premio oppure a sconto rispetto al NAV.
+
+**D:** ⚠️ Come sono realizzati gli ETF fisici e gli ETF sintetici?
+**R:** Slide 41: «gli **ETF fisici** investono su una **parte significativa dei titoli oggetto del paniere di riferimento** al fine di **replicarne l'andamento**. Tuttavia molti ETF sul mercato sono spesso **ETF sintetici** (definiti anche **ETF su swap**), realizzati cioè mediante **operazioni di investimento con controparti che garantiscono il rendimento**. Hanno quindi il **rischio di controparte**, anche se **minimizzato con varie misure di sicurezza**». ⚠️ Il fisico replica con una «**parte significativa**» del paniere, **non necessariamente con tutti i titoli**. ⚠️ Il rischio di controparte è **in aggiunta** a quello di mercato, non al suo posto: «il mercato per esempio va bene ma **il fondo ha dei problemi**» ([00:17:38]).
+**Opzione:** I fisici investendo su una parte significativa dei titoli del paniere di riferimento; i sintetici mediante operazioni di investimento con controparti che garantiscono il rendimento, con in più il rischio di controparte.
+**Distrattori:**
+- I fisici investendo su una parte significativa dei titoli del paniere di riferimento; i sintetici mediante operazioni di investimento con controparti che garantiscono il rendimento, che in questo modo eliminano ogni rischio.
+- I fisici mediante operazioni di investimento con controparti che garantiscono il rendimento; i sintetici investendo su una parte significativa dei titoli del paniere di riferimento, con in più il rischio di controparte.
+- I fisici acquistando obbligatoriamente tutti i titoli dell'indice di riferimento; i sintetici acquistandone solo alcuni, con in più il rischio di controparte.
+
+**D:** Che cosa si scambiano l'ETF sintetico e la controparte nel contratto di swap?
+**R:** Slide 42: «si concorda che la **controparte dello swap paghi all'ETF il rendimento dell'indice compresi tutti i dividendi distribuiti**. La controparte dello swap **riceverà in cambio una commissione (commissione di swap) e il rendimento degli strumenti finanziari del portafoglio collaterale**». ⚠️ I due flussi vanno tenuti **nel verso giusto**: la controparte **paga l'indice** e **riceve** commissione e rendimento del collaterale. ⚠️ Il rendimento dell'indice pagato all'ETF è **comprensivo dei dividendi**, il che è più di quanto renda l'indice di prezzo puro.
+**Opzione:** La controparte paga all'ETF il rendimento dell'indice, dividendi compresi, e riceve in cambio una commissione di swap e il rendimento degli strumenti del portafoglio collaterale.
+**Distrattori:**
+- La controparte paga all'ETF il rendimento degli strumenti del portafoglio collaterale e riceve in cambio una commissione di swap e il rendimento dell'indice, dividendi compresi.
+- La controparte paga all'ETF il rendimento dell'indice, esclusi i dividendi, e riceve in cambio una commissione di swap e il rendimento degli strumenti del portafoglio collaterale.
+- La controparte paga all'ETF il rendimento dell'indice, dividendi compresi, e riceve in cambio la sola commissione di swap, restando il collaterale di proprietà dell'ETF.
+
+**D:** ⚠️ Che rapporto c'è fra il portafoglio collaterale di un ETF sintetico e l'indice replicato?
+**R:** Slide 42: «i fondi dell'ETF sintetico vengono investiti in un **paniere di strumenti finanziari che serve come collaterale per la controparte dello swap**. Gli strumenti finanziari del portafoglio collaterale **non corrispondono necessariamente ai titoli dell'indice replicato**. Per esempio, un ETF sintetico sui **titoli azionari europei** (ad esempio, l'**MSCI Europe**) può avere **titoli azionari giapponesi** all'interno del suo portafoglio collaterale». ⚠️ È «**la singolarità di questi strumenti**» ([00:19:05]): il collaterale può essere «**qualunque cosa**», anche «qualcosa che **non c'entra nulla** con l'oggetto dell'ETF». ⚠️ Non è un difetto occasionale ma una **caratteristica strutturale** della replica sintetica.
+**Opzione:** Non corrispondono necessariamente: un ETF sintetico sull'MSCI Europe può avere titoli azionari giapponesi nel portafoglio collaterale.
+**Distrattori:**
+- Corrispondono necessariamente: il portafoglio collaterale di un ETF sintetico sull'MSCI Europe è composto dai titoli dell'indice replicato.
+- Non corrispondono necessariamente, purché il portafoglio collaterale sia composto da titoli della stessa area geografica dell'indice replicato.
+- Non corrispondono mai: il portafoglio collaterale di un ETF sintetico è per legge composto da titoli di Stato dell'area euro.
+
+**D:** Quali sono le principali ragioni di efficienza che hanno permesso lo sviluppo dei fondi comuni nel retail?
+**R:** Slide 43, **cinque** e nell'ordine della slide: **diversificazione · gestione dei tagli · gestione della liquidità · riduzione dei costi · accesso alle competenze professionali**. Il transcript le glossa ([00:19:40]): la **diversificazione** è poter investire «anche con **somme piccole** in un portafoglio diversificato» — «con **10.000 dollari** non posso investire in tutte le azioni principali del mercato, **se non attraverso un fondo comune**»; la **gestione dei tagli** è poter accedere a «strumenti che prevedono un **taglio maggiore** dell'ammontare che ho»; la **gestione della liquidità** è «**smobilizzare i fondi con facilità**»; la **riduzione dei costi** è **in percentuale**, perché «costa molto meno gestire un **patrimonio grande**». ⚠️ È l'**ultima slide del deck** e un elenco chiuso: la voce di chiusura, **accesso alle competenze professionali**, è il bersaglio della *coda sostituita*.
+**Opzione:** Diversificazione, gestione dei tagli, gestione della liquidità, riduzione dei costi e accesso alle competenze professionali.
+**Distrattori:**
+- Diversificazione, gestione dei tagli, gestione della liquidità, riduzione dei costi e garanzia del capitale investito.
+- Diversificazione, gestione dei tagli, gestione della liquidità, riduzione dei costi e agevolazioni fiscali sui rendimenti.
+- Diversificazione, gestione del rischio di cambio, gestione della liquidità, riduzione dei costi e accesso alle competenze professionali.
+
+**D:** ✅ Quali chiavi del quiz della lezione 30 sono risultate sbagliate?
+**R:** **Nessuna.** Tutte e cinque le chiavi della piattaforma sono **verificate corrette** sulle slide: domanda 1 sulla **slide 15** (definizione dei fondi comuni), domanda 2 sulla **slide 23** (fondi aperti), domanda 3 sulla **slide 37** (SICAV), domanda 4 sulla **slide 40** (negoziazione e NAV degli ETF), domanda 5 sulla **slide 41** (ETF sintetici). Il quiz **torna pulito** dopo la chiave difforme della **29**; dalla 27 in poi le lezioni senza difetti sono la **27**, la **28** e la **30**. ⚠️ Come sempre, la serie pulita **non autorizza a fidarsi della chiave** nelle lezioni successive: il profilo del corso resta irregolare.
+
+**D:** ⚠️ Che cosa hanno in comune i distrattori delle cinque domande della lezione 30?
+**R:** **Sono tutti torsioni di una sola parola su una citazione letterale della slide.** Domanda 2: *quotate* → **illiquide**, e in più la definizione del fondo **chiuso** montata al posto di quella del fondo aperto. Domanda 3: si **toglie il «non»** («*prevedono* la distinzione»), oppure si **scambia l'oggetto** («patrimonio del fondo e quello **dei sottoscrittori**»). Domanda 4: *può* essere scambiato a premio o a sconto → **deve** essere scambiato sempre al NAV, «del giorno prima» o «del giorno dopo». Domanda 5: «hanno quindi il **rischio di controparte**» → «in questo modo **non hanno nessun rischio**». ⚠️ Due delle cinque domande — la 4 e la 5 — hanno **due distrattori speculari** che differiscono solo per una parola simmetrica (*giorno prima / giorno dopo*; *tutti i titoli / alcuni dei titoli*): **due opzioni che si annullano a vicenda sono un indizio che nessuna delle due è la chiave**.
