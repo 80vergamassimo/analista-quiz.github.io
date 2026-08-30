@@ -9651,3 +9651,382 @@
 
 **D:** ⚠️ Che cosa hanno in comune i distrattori delle cinque domande della lezione 30?
 **R:** **Sono tutti torsioni di una sola parola su una citazione letterale della slide.** Domanda 2: *quotate* → **illiquide**, e in più la definizione del fondo **chiuso** montata al posto di quella del fondo aperto. Domanda 3: si **toglie il «non»** («*prevedono* la distinzione»), oppure si **scambia l'oggetto** («patrimonio del fondo e quello **dei sottoscrittori**»). Domanda 4: *può* essere scambiato a premio o a sconto → **deve** essere scambiato sempre al NAV, «del giorno prima» o «del giorno dopo». Domanda 5: «hanno quindi il **rischio di controparte**» → «in questo modo **non hanno nessun rischio**». ⚠️ Due delle cinque domande — la 4 e la 5 — hanno **due distrattori speculari** che differiscono solo per una parola simmetrica (*giorno prima / giorno dopo*; *tutti i titoli / alcuni dei titoli*): **due opzioni che si annullano a vicenda sono un indizio che nessuna delle due è la chiave**.
+
+## Lezione 31 — Gli Organismi Collettivi di Investimento (2)
+
+**D:** Quali sono le principali ragioni di efficienza che hanno permesso lo sviluppo dei fondi comuni nel retail?
+**R:** Slide 2 (identica alla slide 43 del deck 30), **cinque** e nell'ordine della slide: **diversificazione · gestione dei tagli · gestione della liquidità · riduzione dei costi · accesso alle competenze professionali**. Introdotte da «la **gestione collettiva dei risparmi permette**…». ⚠️ Le prime quattro sono **ragioni tecniche**, la quinta è «una di **merito**» ([00:03:14]): riguarda l'**accesso a un bene altrimenti precluso**, non l'efficienza. ⚠️ Essendo un elenco chiuso in chiusura di deck, la **voce finale** è il bersaglio della *coda sostituita*.
+**Opzione:** Diversificazione, gestione dei tagli, gestione della liquidità, riduzione dei costi e accesso alle competenze professionali.
+**Distrattori:**
+- Diversificazione, gestione dei tagli, gestione della liquidità, riduzione dei costi e garanzia del capitale investito.
+- Diversificazione, gestione dei tagli, gestione della liquidità, riduzione delle imposte e accesso alle competenze professionali.
+- Diversificazione, gestione del rischio di cambio, gestione della liquidità, riduzione dei costi e accesso alle competenze professionali.
+
+**D:** Che cos'è la gestione dei tagli e perché è un vantaggio del fondo comune?
+**R:** Slide 4: «alcuni **titoli mobiliari sono costruiti pensando al mercato all'ingrosso**, e hanno quindi **tagli minimi alti** (**100,000 euro** ad esempio per alcune obbligazioni)»; «**anche con somme modeste, l'investitore in fondi può accedere a questa tipologia di prodotti**». ⚠️ Il taglio da **100.000 euro** è lo stesso della *denomination* dell'obbligazione **Telecom Italia** della lezione 25 (slide 35): non è un numero inventato per l'esempio.
+**Opzione:** Alcuni titoli mobiliari sono pensati per il mercato all'ingrosso e hanno tagli minimi alti, 100.000 euro per alcune obbligazioni: il fondo vi dà accesso anche con somme modeste.
+**Distrattori:**
+- Alcuni titoli mobiliari sono pensati per il mercato al dettaglio e hanno tagli minimi bassi, 100.000 euro per alcune obbligazioni: il fondo vi dà accesso anche con somme modeste.
+- Alcuni titoli mobiliari sono pensati per il mercato all'ingrosso e hanno tagli minimi alti, 10.000 euro per alcune obbligazioni: il fondo vi dà accesso anche con somme modeste.
+- Alcuni titoli mobiliari sono pensati per il mercato all'ingrosso e hanno tagli minimi alti: il fondo consente di negoziarli in frazioni sul mercato regolamentato.
+
+**D:** ⚠️ In che senso il taglio minimo pone all'investitore un problema doppio?
+**R:** Perché o **non ci si arriva** o, arrivandoci, si è **costretti a concentrare**. Il docente lo mostra con due cifre ([00:01:26]): «magari ha solo **90.000 euro** e **100.000** il taglio»; oppure «magari ha solo **300.000 euro** e dovrebbe investire in **solo tre obbligazioni**». ⚠️ **Il taglio minimo nega la diversificazione**: le prime due ragioni di efficienza della slide 2 si tengono insieme, e la seconda esiste perché senza di essa la prima è irraggiungibile.
+**Opzione:** O non si raggiunge il taglio, o lo si raggiunge ma restando costretti a concentrare l'investimento su pochissimi titoli.
+**Distrattori:**
+- O non si raggiunge il taglio, o lo si raggiunge ma pagando commissioni di ingresso proporzionalmente più alte.
+- O non si raggiunge il taglio, o lo si raggiunge ma perdendo il diritto al rimborso anticipato delle quote.
+- Il taglio minimo obbliga a mantenere l'investimento fino a scadenza, impedendo qualsiasi disinvestimento parziale.
+
+**D:** ⚠️ Come fa un fondo a gestire i rimborsi senza dover vendere i titoli in portafoglio?
+**R:** Slide 6, **tre** modi, dal più semplice al più elegante: «il fondo può gestire in modo efficiente questa fase **utilizzando parte della propria liquidità**, **gestendo a monte le operazioni di investimento/disinvestimento** o **compensando le uscite di un investitore con le entrate di altri**». Il presupposto (stessa slide): «con i **rimborsi si riduce solo parte di un patrimonio comune diversificato**», sicché «nella liquidazione l'investitore **non deve preoccuparsi eccessivamente di problemi specifici di singoli titoli** presenti nel portafoglio come **tagli minimi dei titoli che restano, costi eventuali di disinvestimento, tempi eventuali di blocco**». ⚠️ Il transcript aggiunge il caso più immediato: «una sottoscrizione può essere banalmente **tratta dalla liquidità di un fondo** e non dalla vendita di tutti i titoli» ([00:02:46]).
+**Opzione:** Usando parte della propria liquidità, gestendo a monte le operazioni di investimento e disinvestimento, oppure compensando le uscite di un investitore con le entrate di altri.
+**Distrattori:**
+- Usando parte della propria liquidità, gestendo a monte le operazioni di investimento e disinvestimento, oppure sospendendo temporaneamente i rimborsi.
+- Usando una linea di credito concessa dalla banca depositaria, gestendo a monte le operazioni di investimento e disinvestimento, oppure compensando le uscite di un investitore con le entrate di altri.
+- Vendendo in ogni caso una quota proporzionale di tutti i titoli in portafoglio, così da non alterare la composizione del fondo.
+
+**D:** Che cosa consente il fondo comune in termini di competenze professionali?
+**R:** Slide 9: «grazie ai fondi comuni **anche piccoli investitori possono avvalersi di competenze professionali costose o accedere ad investimenti preclusi ai piccoli risparmiatori**» — **tecniche di gestione sofisticate, mercati esotici, vantaggi competitivi**. ⚠️ È la ragione di **merito** fra le cinque, non tecnica ([00:03:14]): le altre quattro rendono più efficiente ciò che si potrebbe già fare, questa dà accesso a ciò che **non si potrebbe fare affatto** — «o perché la mia **dimensione è troppo piccola** o perché il **costo per avere una consulenza individuale sarebbe troppo elevato**».
+**Opzione:** Che anche piccoli investitori possano avvalersi di competenze professionali costose o accedere a investimenti preclusi ai piccoli risparmiatori.
+**Distrattori:**
+- Che anche piccoli investitori possano avvalersi di competenze professionali costose, restando però esclusi dagli investimenti preclusi ai piccoli risparmiatori.
+- Che anche i grandi investitori istituzionali possano avvalersi di competenze professionali costose o accedere a investimenti preclusi ai piccoli risparmiatori.
+- Che i piccoli investitori possano avvalersi gratuitamente della consulenza individuale prestata dalla società di gestione.
+
+**D:** Perché i fondi comuni sono raggruppati in macro categorie?
+**R:** Slide 14: «i Fondi Comuni di Investimento **condividono lo stesso meccanismo di funzionamento, ma non sono tutti uguali**. La **distinzione principale riguarda le attività finanziarie nelle quali investono** e, di conseguenza, il **rischio e il rendimento potenziale** che li caratterizza». L'esempio della slide: «acquistare un fondo che assume principalmente **esposizioni sulle Borse dei Paesi Emergenti** è ben diverso dall'acquistare un fondo che investe in **titoli di Stato dei Paesi europei**». ⚠️ Il criterio è **l'attività finanziaria in cui si investe**, e rischio e rendimento ne sono la **conseguenza**, non la causa.
+**Opzione:** Perché condividono lo stesso meccanismo ma non sono tutti uguali: la distinzione riguarda le attività finanziarie in cui investono e, di conseguenza, il rischio e il rendimento potenziale.
+**Distrattori:**
+- Perché condividono lo stesso meccanismo ma non sono tutti uguali: la distinzione riguarda la forma giuridica del veicolo e, di conseguenza, il rischio e il rendimento potenziale.
+- Perché condividono lo stesso meccanismo ma non sono tutti uguali: la distinzione riguarda il rischio e il rendimento potenziale e, di conseguenza, le attività finanziarie in cui investono.
+- Perché condividono lo stesso meccanismo ma non sono tutti uguali: la distinzione riguarda il livello delle commissioni applicate e, di conseguenza, il rendimento netto per il sottoscrittore.
+
+**D:** Chi ha costruito le macro categorie dei fondi comuni, con quale scopo e quante sono?
+**R:** Slide 15: «al fine di **orientare meglio i risparmiatori**, **Assogestioni** ha raggruppato i fondi in **cinque macro categorie relativamente omogenee al loro interno**». ⚠️ **Assogestioni non è un'autorità di vigilanza**: è l'associazione delle società di gestione, e le macro categorie sono una **classificazione di settore**, non una norma. Nella lezione 30 la stessa fonte forniva le **statistiche mensili** del risparmio gestito (slide 8).
+**Opzione:** Assogestioni, al fine di orientare meglio i risparmiatori, in cinque macro categorie relativamente omogenee al loro interno.
+**Distrattori:**
+- La Banca d'Italia, al fine di orientare meglio i risparmiatori, in cinque macro categorie relativamente omogenee al loro interno.
+- Assogestioni, al fine di orientare meglio i risparmiatori, in tre macro categorie relativamente omogenee al loro interno.
+- La Consob, al fine di vigilare sulla trasparenza dei prospetti, in cinque macro categorie relativamente omogenee al loro interno.
+
+**D:** Quali sono le cinque macro categorie dei fondi comuni?
+**R:** Slide 16–20, nell'ordine: **fondi di liquidità** (noti anche come **fondi monetari**) · **fondi obbligazionari** · **fondi bilanciati** · **fondi azionari** · **fondi flessibili**. ⚠️ È la chiave della **domanda 2** del quiz, e il distrattore d'esame si limita a cambiare l'ultima voce in «**inflessibili**», parola che non esiste nella classificazione: **la coda dell'elenco è sempre il punto attaccato**.
+**Opzione:** Fondi di liquidità, obbligazionari, bilanciati, azionari e flessibili.
+**Distrattori:**
+- Fondi di liquidità, obbligazionari, bilanciati, azionari e inflessibili.
+- Fondi immobiliari, monetari e mobiliari.
+- Fondi bancari, assicurativi e societari.
+
+**D:** Che cosa sono i fondi di liquidità?
+**R:** Slide 16: «noti anche come **FONDI MONETARI**. Sono i **prodotti a rischio più contenuto**: investono infatti in **strumenti del mercato monetario** (**impieghi a breve scadenza**), le cui **oscillazioni sono piuttosto limitate**. Si distinguono a seconda della **valuta in cui sono denominati gli strumenti sottostanti**». ⚠️ Sono i **meno rischiosi** delle cinque categorie, e il criterio di sottodistinzione è **la valuta** — non la scadenza né l'emittente.
+**Opzione:** I prodotti a rischio più contenuto: investono in strumenti del mercato monetario, cioè impieghi a breve scadenza con oscillazioni limitate, e si distinguono a seconda della valuta degli strumenti sottostanti.
+**Distrattori:**
+- I prodotti a rischio più contenuto: investono in strumenti del mercato monetario, cioè impieghi a breve scadenza con oscillazioni limitate, e si distinguono a seconda dell'emittente degli strumenti sottostanti.
+- I prodotti a rischio più elevato: investono in strumenti del mercato monetario, cioè impieghi a lunga scadenza con oscillazioni ampie, e si distinguono a seconda della valuta degli strumenti sottostanti.
+- I prodotti a rischio più contenuto: investono in titoli di Stato dei paesi dell'area euro con scadenza superiore ai dieci anni, e si distinguono a seconda della valuta degli strumenti sottostanti.
+
+**D:** Che cosa sono i fondi obbligazionari e da che cosa dipende il loro rischio?
+**R:** Slide 17: «prevedono la presenza di **obbligazioni per almeno il 70% del patrimonio**. Si distinguono a seconda che investano in **titoli di Stato** piuttosto che in **obbligazioni emesse da aziende (corporate)**, ma anche per la **valuta** delle obbligazioni in portafoglio. Da questi parametri dipende il loro **livello di rischio**, tendenzialmente **più moderato per l'investimento in titoli di Stato**, **più accentuato per le obbligazioni corporate e per i titoli denominati in valute estere**». ⚠️ **Due parametri, non uno**: emittente **e** valuta. E la soglia è **almeno il 70%**, la stessa dei **fondi azionari** ma su oggetto opposto.
+**Opzione:** Fondi con obbligazioni per almeno il 70% del patrimonio; il rischio dipende dall'emittente e dalla valuta, ed è più moderato sui titoli di Stato, più accentuato sulle corporate e sui titoli in valute estere.
+**Distrattori:**
+- Fondi con obbligazioni per almeno il 50% del patrimonio; il rischio dipende dall'emittente e dalla valuta, ed è più moderato sui titoli di Stato, più accentuato sulle corporate e sui titoli in valute estere.
+- Fondi con obbligazioni per almeno il 70% del patrimonio; il rischio dipende dall'emittente e dalla valuta, ed è più moderato sulle corporate, più accentuato sui titoli di Stato e sui titoli in valute estere.
+- Fondi con obbligazioni per almeno il 70% del patrimonio; il rischio dipende esclusivamente dalla durata residua dei titoli in portafoglio.
+
+**D:** ⚠️ Come si dividono i fondi bilanciati?
+**R:** Slide 18: «investono, in **proporzione variabile**, sia in azioni che in obbligazioni; sono quindi un **mix** tra fondi azionari ed obbligazionari. A loro volta si dividono in **3 categorie in base alla percentuale di azioni**: **compresa tra il 30% e il 70% ⇒ bilanciati "puri"**; **compresa tra il 50% e il 90% ⇒ bilanciati "azionari"**; **compresa tra il 10% e il 50% ⇒ bilanciati "obbligazionari"**. Il livello di rischio **cresce all'aumentare della componente azionaria**». ⚠️ **I tre intervalli si sovrappongono**: al **60%** di azioni un fondo può essere *puro* o *azionario*, al **40%** *puro* o *obbligazionario*. Discriminano solo gli **estremi**: **sotto il 30%** solo obbligazionario, **sopra il 70%** solo azionario. ⚠️ Il transcript aggiunge per i puri «un benchmark che tipicamente è al **50%**» ([00:03:14]): **non è sulla slide**.
+**Opzione:** In tre, per percentuale di azioni: puri fra il 30% e il 70%, azionari fra il 50% e il 90%, obbligazionari fra il 10% e il 50%.
+**Distrattori:**
+- In tre, per percentuale di azioni: puri fra il 30% e il 70%, azionari fra il 70% e il 90%, obbligazionari fra il 10% e il 30%.
+- In tre, per percentuale di obbligazioni: puri fra il 30% e il 70%, azionari fra il 50% e il 90%, obbligazionari fra il 10% e il 50%.
+- In due, per percentuale di azioni: bilanciati azionari sopra il 50%, bilanciati obbligazionari sotto il 50%.
+
+**D:** Che cosa sono i fondi azionari?
+**R:** Slide 19: «sono i prodotti che investono **almeno il 70% del patrimonio in azioni**. Il loro **livello di rischio**, pertanto, è **generalmente elevato**. I fondi azionari si dividono poi tra quelli specializzati in una **particolare area geografica** (ad esempio gli "**azionari Italia**" o gli "**azionari Europa**") o in un **particolare settore** (ad esempio **farmaceutico** o **finanziario**)». ⚠️ La soglia del **70%** è la stessa degli **obbligazionari**, con l'oggetto invertito: è la coppia che l'esame scambia più volentieri. ⚠️ Le sottodistinzioni sono **due**: **geografica** o **settoriale**.
+**Opzione:** Fondi che investono almeno il 70% del patrimonio in azioni, con rischio generalmente elevato, divisi per area geografica o per settore.
+**Distrattori:**
+- Fondi che investono almeno il 70% del patrimonio in obbligazioni, con rischio generalmente elevato, divisi per area geografica o per settore.
+- Fondi che investono almeno il 50% del patrimonio in azioni, con rischio generalmente contenuto, divisi per area geografica o per settore.
+- Fondi che investono almeno il 70% del patrimonio in azioni, con rischio generalmente elevato, divisi esclusivamente per area geografica.
+
+**D:** ⚠️ Che cosa accomuna i fondi flessibili?
+**R:** Slide 20: sono nati dall'evoluzione finanziaria, «**diversi da quelli tradizionali** (azionari, monetari, obbligazionari, bilanciati) in quanto **spesso privi di vincoli di asset allocation** e pertanto **non classificabili nelle categorie preesistenti**»; formano «una sorta di **contenitore residuale**, dove confluiscono **prodotti anche molto diversi tra loro**, che quindi **non potrebbero essere collocati altrove**, ma che hanno in comune **una caratteristica: si tratta di fondi senza benchmark**». ⚠️ Il tratto comune è **uno solo** ed è **negativo**: l'assenza di **benchmark**. È la categoria definita **per esclusione** — «contenitore residuale». ⚠️ Il transcript la ammorbidisce in «non avere un benchmark di riferimento **in modo rigido**» ([00:03:14]), ma la slide è **assoluta**.
+**Opzione:** Sono un contenitore residuale di prodotti molto diversi fra loro, privi di vincoli di asset allocation, che hanno in comune una sola caratteristica: sono fondi senza benchmark.
+**Distrattori:**
+- Sono un contenitore residuale di prodotti molto diversi fra loro, privi di vincoli di asset allocation, che hanno in comune una sola caratteristica: sono fondi con benchmark dinamico.
+- Sono una categoria omogenea di prodotti soggetti a vincoli di asset allocation particolarmente stringenti, che hanno in comune una sola caratteristica: sono fondi senza benchmark.
+- Sono un contenitore residuale di prodotti molto diversi fra loro, privi di vincoli di asset allocation, che hanno in comune una sola caratteristica: sono riservati agli investitori professionali.
+
+**D:** Come è cresciuto il patrimonio dei fondi comuni collocati in Italia?
+**R:** Slide 21 (fonte **Assogestioni**): il patrimonio netto passa da circa **310 miliardi di euro nel 2011** a circa **980 nel 2017** — «la crescita è di **almeno tre volte** in termini di masse complessive» ([00:03:14]). A crescere sono soprattutto la componente **obbligazionaria** e quella **flessibile**; la **azionaria** resta intorno al **20%** delle masse. Il grafico distingue **sei** voci: **azionari, bilanciati, obbligazionari, liquidità, flessibili, hedge**. ⚠️ Il perimetro della nota: **fondi di diritto italiano controllati da intermediari esteri**, **fondi aperti (armonizzati e non) di diritto italiano** e **fondi di diritto estero promossi da intermediari italiani** (i cosiddetti ***roundtrip***), inclusi i **fondi di fondi**.
+**Opzione:** Da circa 310 miliardi nel 2011 a circa 980 nel 2017, quasi tre volte, con la componente azionaria ferma intorno al 20% delle masse.
+**Distrattori:**
+- Da circa 310 miliardi nel 2011 a circa 980 nel 2017, quasi tre volte, con la componente azionaria salita a circa il 50% delle masse.
+- Da circa 980 miliardi nel 2011 a circa 310 nel 2017, con la componente azionaria ferma intorno al 20% delle masse.
+- Da circa 310 miliardi nel 2011 a circa 400 nel 2017, una crescita modesta, con la componente azionaria ferma intorno al 20% delle masse.
+
+**D:** ⚠️ Quanto è concentrato il mercato italiano dei fondi aperti?
+**R:** Slide 23 (*TOP 15 GROUPS — open-end funds only*, AuM **aprile 2020**): molto. Il primo gruppo è **Eurizon** con **162 miliardi di euro, il 16%** del mercato; i marcatori cumulati della slide dicono che i **primi sei gruppi valgono il 53%**, i **primi undici il 77%** e l'**intero elenco l'85%**. Seguono Eurizon, nell'ordine, **Fideuram, Amundi, Generali, Anima, BlackRock, Mediolanum, JPMorgan AM, Morgan Stanley, Pramerica, Azimut, Pictet AM, Fidelity, Arca, Invesco, Deutsche Bank**. ⚠️ Il transcript chiama il primo gruppo «**Horizon**» ([00:08:49]): è **Eurizon**.
+**Opzione:** Molto: il primo gruppo, Eurizon, vale 162 miliardi e il 16%; i primi sei valgono il 53%, i primi undici il 77% e l'intero elenco l'85%.
+**Distrattori:**
+- Poco: il primo gruppo, Eurizon, vale 162 miliardi ma solo il 4%; i primi sei valgono il 15% e l'intero elenco il 30%.
+- Molto: il primo gruppo, BlackRock, vale 162 miliardi e il 16%; i primi sei valgono il 53%, i primi undici il 77% e l'intero elenco l'85%.
+- Molto: il primo gruppo, Eurizon, vale 162 miliardi e il 53%; i primi sei valgono il 77% e l'intero elenco il 100%.
+
+**D:** Che cosa sono i fondi hedge?
+**R:** Slide 24: «si tratta di fondi **molto specializzati**, gestiti professionalmente con l'obiettivo di ottenere **performance assolute, ovvero indipendenti dall'andamento dei mercati**. … Questo approccio ha portato molti Hedge Fund a **sovraperformare i principali indici azionari e obbligazionari**». ⚠️ «**Performance assolute**» è la definizione, e il suo contrario è la performance **relativa a un benchmark**: l'hedge fund sta agli **antipodi dell'ETF** della lezione 30, che ha «come **unico obiettivo** quello di **replicare fedelmente** l'andamento di un indice». ⚠️ Il transcript pronuncia sempre «fondi **edge**».
+**Opzione:** Fondi molto specializzati, gestiti professionalmente con l'obiettivo di ottenere performance assolute, cioè indipendenti dall'andamento dei mercati.
+**Distrattori:**
+- Fondi molto specializzati, gestiti professionalmente con l'obiettivo di ottenere performance relative, cioè in linea con l'andamento dei mercati.
+- Fondi molto specializzati, gestiti professionalmente con l'obiettivo di replicare fedelmente l'andamento di indici azionari, obbligazionari o di materie prime.
+- Fondi molto specializzati, gestiti professionalmente con l'obiettivo di garantire ai sottoscrittori un rendimento minimo indipendente dall'andamento dei mercati.
+
+**D:** Come si sono comportati i fondi hedge rispetto ai mercati azionari e obbligazionari?
+**R:** Slide 25 (fonte **Bloomberg**, **01/1994 – 06/2015**, base 100): il **CSFB/Tremont Hedge Fund Index** arriva a circa **570**, il **MSCI World Index** (azioni globali) a circa **425**, il **Merrill Lynch Global Bond** (obbligazioni globali) a circa **285**. Il commento del docente: «questo comparto è andato **particolarmente bene mediamente, con grandi difficoltà in alcuni momenti**, ed è il motivo per cui ormai è una **presenza stabile negli investimenti**» ([00:09:19]). ⚠️ Il transcript sbaglia **entrambi** gli estremi del periodo: dice «il paragone a **11 anni, 1994-2016**», mentre la slide copre **gennaio 1994 – giugno 2015**, cioè **ventuno anni e mezzo**.
+**Opzione:** L'indice dei fondi hedge arriva a circa 570 contro il 425 delle azioni globali e il 285 delle obbligazioni globali, su base 100 fra gennaio 1994 e giugno 2015.
+**Distrattori:**
+- L'indice dei fondi hedge arriva a circa 285 contro il 425 delle azioni globali e il 570 delle obbligazioni globali, su base 100 fra gennaio 1994 e giugno 2015.
+- L'indice dei fondi hedge arriva a circa 570 contro il 425 delle azioni globali e il 285 delle obbligazioni globali, su base 100 fra gennaio 2004 e giugno 2015.
+- I tre indici hanno andamenti sostanzialmente sovrapponibili, tutti intorno a 400 su base 100 fra gennaio 1994 e giugno 2015.
+
+**D:** Chi ha creato il primo fondo hedge, quando e perché?
+**R:** Slide 26: «il primo fondo hedge è stato creato nel **1949** da **Alfred Winslow Jones**, **giornalista di Fortune e sociologo**. Occupandosi di borsa e investimenti, Jones arrivò a sviluppare una tecnica di gestione che puntava a **ridurre il rischio connesso all'andamento del mercato** e **contemporaneamente realizzare rendimenti elevati**. Per raggiungere questi **obiettivi divergenti** Jones pensò di utilizzare **modalità operative non consentite ai fondi normali (mutual funds)**, sfruttando una **falla nella normativa USA** in vigore a quei tempi». ⚠️ Sono **due obiettivi in tensione** — meno rischio *e* più rendimento —, ed è la ragione per cui servivano strumenti vietati agli altri fondi. ⚠️ Jones **non era un finanziere di professione**: era **giornalista** e **sociologo**.
+**Opzione:** Alfred Winslow Jones nel 1949, giornalista di Fortune e sociologo, per ridurre il rischio di mercato e realizzare contemporaneamente rendimenti elevati.
+**Distrattori:**
+- Alfred Winslow Jones nel 1949, economista della Federal Reserve, per ridurre il rischio di mercato e realizzare contemporaneamente rendimenti elevati.
+- Alfred Winslow Jones nel 1929, giornalista di Fortune e sociologo, per ridurre il rischio di mercato e realizzare contemporaneamente rendimenti elevati.
+- Alfred Winslow Jones nel 1949, giornalista di Fortune e sociologo, per replicare fedelmente l'andamento del mercato azionario a costi ridotti.
+
+**D:** ⚠️ Quale falla normativa sfruttò Jones per il suo fondo?
+**R:** Slide 27: «dato che l'**Investment Company Act del 1940** si applicava **solo a fondi con almeno 101 investitori**, Jones decise che il suo fondo avrebbe avuto **non più di 99 investitori**». ⚠️ **Tre numeri in fila e la logica che li tiene insieme**: la legge del **1940** si applicava **da 101 investitori in su**, quindi fermarsi a **99** significava **restarne fuori** — «la presenza di **pochi investitori** poteva non avere le stesse **regole stringenti di controllo del rischio**» ([00:09:19]). ⚠️ La slide aggiunge che «un **richiamo a questa impostazione** è presente anche nella **normativa italiana**»: i limiti del 1999 hanno la stessa ratio.
+**Opzione:** L'Investment Company Act del 1940 si applicava solo a fondi con almeno 101 investitori, e Jones si fermò a non più di 99.
+**Distrattori:**
+- L'Investment Company Act del 1940 si applicava solo a fondi con almeno 99 investitori, e Jones si fermò a non più di 101.
+- L'Investment Company Act del 1940 si applicava solo a fondi con almeno 101 investitori, e Jones si fermò a non più di 200.
+- L'Investment Company Act del 1949 si applicava solo a fondi con almeno 101 investitori, e Jones si fermò a non più di 99.
+
+**D:** ⚠️ Con quali limiti sono stati introdotti i fondi hedge in Italia?
+**R:** Slide 27: «i fondi hedge sono stati introdotti nel nostro ordinamento nel **1999** con limiti importanti: **massimo 200 partecipanti** con **almeno 500mila euro investiti ciascuno** e **divieto di sollecitazione all'investimento**. Il **limite dei 200 partecipanti venne poi abrogato nel 2008**». ⚠️ **Tre limiti, di cui solo il primo abrogato**: la soglia di **500mila euro** e il **divieto di sollecitazione** restano. ⚠️ Il senso, secondo il docente, era «rendere l'investimento un po' **di nicchia**, per pochi adepti che conoscessero lo strumento» ([00:09:19]) — la stessa ratio della soglia dei **99 investitori** di Jones.
+**Opzione:** Nel 1999, con massimo 200 partecipanti, almeno 500mila euro investiti ciascuno e divieto di sollecitazione all'investimento; il limite dei 200 partecipanti è stato abrogato nel 2008.
+**Distrattori:**
+- Nel 1999, con massimo 200 partecipanti, almeno 500mila euro investiti ciascuno e divieto di sollecitazione all'investimento; tutti e tre i limiti sono stati abrogati nel 2008.
+- Nel 1999, con massimo 99 partecipanti, almeno 500mila euro investiti ciascuno e divieto di sollecitazione all'investimento; il limite dei 99 partecipanti è stato abrogato nel 2008.
+- Nel 2008, con massimo 200 partecipanti, almeno 500mila euro investiti ciascuno e divieto di sollecitazione all'investimento; il limite dei 200 partecipanti è stato abrogato nel 1999.
+
+**D:** ⚠️ Quali norme hanno autorizzato la costituzione dei primi hedge fund in Italia?
+**R:** Slide 29, **tre** fonti: «la costituzione dei primi hedge fund è stata autorizzata in particolare dal **decreto n. 228 del 24 maggio 1999 del Ministero del Tesoro** e dai **Regolamenti attuativi della Banca d'Italia del 20 settembre 1999** e successive modifiche, apportate con **decreto del Ministero del Tesoro n. 47 del 31 gennaio 2003**». ⚠️ Il transcript ne cita **due**, saltando i **Regolamenti attuativi della Banca d'Italia** ([00:11:07]). ⚠️ È materiale da **coppia soggetto + norma**, con **due numeri di decreto** (228 e 47), **due date** (24 maggio 1999 e 31 gennaio 2003) e **due soggetti** (Ministero del Tesoro e Banca d'Italia): un distrattore ne sbaglia uno solo.
+**Opzione:** Il decreto n. 228 del 24 maggio 1999 del Ministero del Tesoro, i Regolamenti attuativi della Banca d'Italia del 20 settembre 1999 e le successive modifiche del decreto del Ministero del Tesoro n. 47 del 31 gennaio 2003.
+**Distrattori:**
+- Il decreto n. 47 del 24 maggio 1999 del Ministero del Tesoro, i Regolamenti attuativi della Banca d'Italia del 20 settembre 1999 e le successive modifiche del decreto del Ministero del Tesoro n. 228 del 31 gennaio 2003.
+- Il decreto n. 228 del 24 maggio 1999 della Banca d'Italia, i Regolamenti attuativi del Ministero del Tesoro del 20 settembre 1999 e le successive modifiche del decreto della Consob n. 47 del 31 gennaio 2003.
+- I trattati istitutivi dell'Unione Europea e i successivi regolamenti attuativi della Banca Centrale Europea.
+
+**D:** Quali sono le quattro differenze fra fondi hedge e fondi tradizionali?
+**R:** Slide 30, quattro assi. **Vincoli gestionali**: hedge «**maggior libertà di utilizzo degli strumenti derivati** e **possibilità di effettuare vendite allo scoperto**», tradizionali «**divieto di effettuare vendite allo scoperto**» ed esposizione in derivati «fino al **100% del NAV**». **Rischio di default**: hedge «**presente**, a causa della **maggiore libertà di utilizzo della leva e delle vendite allo scoperto**», tradizionali «**quasi nullo**». **Regolamentazione**: hedge «**nessun vincolo di concentrazione**», con limiti «stabiliti dal **Regolamento del fondo**»; tradizionali, «**Banca d'Italia impone limiti prudenziali di investimento e norme di contenimento e frazionamento del rischio**». **Valorizzazione**: hedge «tendenzialmente **settimanale / mensile**», tradizionali «tendenzialmente **giornaliera / settimanale**». ⚠️ Il rischio di default non è «alto» ma «**presente**», e nei tradizionali non è nullo ma «**quasi nullo**».
+**Opzione:** Vincoli gestionali, rischio di default, regolamentazione e valorizzazione.
+**Distrattori:**
+- Vincoli gestionali, rischio di default, regolamentazione e regime fiscale.
+- Vincoli gestionali, rischio di cambio, regolamentazione e valorizzazione.
+- Forma giuridica, numero minimo di partecipanti, regolamentazione e valorizzazione.
+
+**D:** ⚠️ A quali fondi si applica il limite dell'esposizione in derivati pari al 100% del NAV?
+**R:** Ai **fondi tradizionali**. Nella tabella della slide 30 la voce sta nella colonna di destra, sotto *vincoli gestionali*: «**divieto di effettuare vendite allo scoperto**. L'**esposizione complessiva in derivati può arrivare fino al 100% del NAV**». Gli **hedge** hanno invece «**maggior libertà di utilizzo degli strumenti derivati**» e, sul fronte della regolamentazione, «**nessun vincolo di concentrazione**». ⚠️ Il transcript colloca la frase in modo ambiguo — «l'esposizione in derivati può arrivare fino al **100% dei NAV**, quindi diciamo **meno di quanto è nei fondi** hedge» ([00:11:14]) —: la **tabella fa testo**. ⚠️ Il tetto ha senso solo dove c'è un tetto: negli hedge i limiti li fissa **il regolamento del fondo**, non una norma.
+**Opzione:** Ai fondi tradizionali; gli hedge hanno maggior libertà nell'uso dei derivati e nessun vincolo di concentrazione.
+**Distrattori:**
+- Ai fondi hedge; i tradizionali hanno maggior libertà nell'uso dei derivati e nessun vincolo di concentrazione.
+- A entrambi, hedge e tradizionali, che condividono lo stesso tetto del 100% del NAV sull'esposizione in derivati.
+- Ai soli fondi di fondi hedge, mentre i fondi hedge puri non hanno alcun limite di esposizione in derivati.
+
+**D:** ⚠️ Ogni quanto si valorizzano un fondo hedge e un fondo tradizionale?
+**R:** Slide 30: hedge «tendenzialmente **settimanale / mensile**», tradizionali «tendenzialmente **giornaliera / settimanale**». ⚠️ **Le due colonne si sovrappongono sulla settimanale**, che è di entrambi: a discriminare sono gli **estremi** — **mensile** solo hedge, **giornaliera** solo tradizionale. Il transcript conferma il caso normale: «per i fondi tradizionali la regola è che la quotazione del NAV avvenga **almeno una volta per giorno lavorativo**, alcuni lo fanno solo settimanale, ma **la gran parte sono giornalieri**» ([00:12:03]); negli hedge i tempi sono più lunghi «proprio perché si tratta di **strategie un po' più complesse**».
+**Opzione:** Gli hedge tendenzialmente su base settimanale o mensile, i tradizionali tendenzialmente su base giornaliera o settimanale.
+**Distrattori:**
+- Gli hedge tendenzialmente su base giornaliera o settimanale, i tradizionali tendenzialmente su base settimanale o mensile.
+- Gli hedge tendenzialmente su base mensile o annuale, i tradizionali tendenzialmente su base giornaliera.
+- Entrambi tendenzialmente su base giornaliera, come impone la Banca d'Italia a tutti gli OICR.
+
+**D:** Che differenza c'è fra hedge fund puri e fondi di fondi?
+**R:** Slide 31: «i fondi "**puri**" (o di **primo livello**) **realizzano direttamente le strategie di investimento**. I **fondi di fondi** rappresentano la **maggioranza dei fondi speculativi sino ad ora autorizzati in Italia**. Si tratta di **OICR per i quali la società di gestione è autorizzata a investire in quote di altri OICR appartenenti alla categoria degli hedge fund**, **senza limitazioni in riferimento alla percentuale di portafoglio investita in uno stesso fondo**». ⚠️ In Italia la **maggioranza** è di **fondi di fondi**, non di fondi puri: è un dato quantitativo che la slide afferma e che l'esame può ribaltare. ⚠️ L'assenza di limiti di concentrazione **si estende al secondo livello**: si può investire **tutto in un solo fondo** sottostante.
+**Opzione:** I puri, o di primo livello, realizzano direttamente le strategie; i fondi di fondi investono in quote di altri hedge fund senza limiti di percentuale su uno stesso fondo, e sono la maggioranza in Italia.
+**Distrattori:**
+- I puri, o di primo livello, realizzano direttamente le strategie e sono la maggioranza in Italia; i fondi di fondi investono in quote di altri hedge fund senza limiti di percentuale su uno stesso fondo.
+- I puri, o di primo livello, realizzano direttamente le strategie; i fondi di fondi investono in quote di altri hedge fund entro il limite del 10% su uno stesso fondo, e sono la maggioranza in Italia.
+- I puri, o di primo livello, investono in quote di altri hedge fund; i fondi di fondi realizzano direttamente le strategie di investimento, e sono la maggioranza in Italia.
+
+**D:** Quali commissioni prevede un hedge fund e con quale cadenza?
+**R:** Slide 33: «in genere le commissioni da corrispondere per l'investimento in un hedge fund sono **due**: **commissione di gestione**, corrisposta **mensilmente o trimestralmente**; **commissione di incentivo**, che rappresenta la **quota di utili spettante al gestore** e viene corrisposta con **cadenza annuale**». ⚠️ **Le cadenze sono diverse e vanno appaiate**: gestione **mensile o trimestrale**, incentivo **annuale**. ⚠️ Il transcript quantifica l'incentivo — «la partecipazione agli utili a volte può essere anche del **20-30% degli utili generati**» ([00:12:03]) — ma **la cifra non è sulla slide**.
+**Opzione:** Due: la commissione di gestione, corrisposta mensilmente o trimestralmente, e la commissione di incentivo, quota di utili spettante al gestore, corrisposta annualmente.
+**Distrattori:**
+- Due: la commissione di gestione, corrisposta annualmente, e la commissione di incentivo, quota di utili spettante al gestore, corrisposta mensilmente o trimestralmente.
+- Due: la commissione di ingresso, corrisposta alla sottoscrizione, e la commissione di incentivo, quota di utili spettante al gestore, corrisposta annualmente.
+- Una sola: la commissione di incentivo, quota di utili spettante al gestore, corrisposta con cadenza annuale.
+
+**D:** Quali sono le principali categorie di hedge fund?
+**R:** Slide 34, **tre**, «in funzione delle strategie di investimento adottate»: ① **Macro Fund**, «fondo che **specula sull'andamento di tassi di interessi, valute o mercati azionari**»; ② **Arbitrage Fund**, «fondo che compie **operazioni di arbitraggio** comperando per esempio un titolo negoziato sul **mercato X** e rivendendolo sul **mercato Y**, speculando così sui **diversi valori di quotazione del titolo**. È la tipologia di hedge fund **considerata meno rischiosa**»; ③ **Fondi Equity Hedge**, «fondi che **comprano e vendono allo scoperto titoli azionari sui mercati regolamentati** a seconda che si preveda **un rialzo o un ribasso** del titolo». ⚠️ **La classifica di rischio è dentro l'elenco**: l'**arbitrage** è la **meno rischiosa** — spostare quel giudizio su un'altra categoria, o invertirlo in «più rischiosa», è la torsione naturale.
+**Opzione:** Macro Fund, Arbitrage Fund e Fondi Equity Hedge, di cui l'Arbitrage Fund è considerato il meno rischioso.
+**Distrattori:**
+- Macro Fund, Arbitrage Fund e Fondi Equity Hedge, di cui l'Arbitrage Fund è considerato il più rischioso.
+- Macro Fund, Arbitrage Fund e Fondi Equity Hedge, di cui il Macro Fund è considerato il meno rischioso.
+- Macro Fund, Index Fund e Fondi Equity Hedge, di cui l'Index Fund è considerato il meno rischioso.
+
+**D:** ⚠️ Che cosa sono lo short e il leverage, e come ne è cambiato l'uso nel tempo?
+**R:** Slide 35: sono «**due strumenti caratteristici dei fondi hedge**, anche se il loro utilizzo nel corso del tempo si è **discostato talvolta nettamente da quello che ne faceva Jones**. Quest'ultimo infatti **apriva posizioni short sui titoli azionari al fine di ridurre il rischio di mercato** per poi **incrementare il rendimento con il leverage**. **In seguito** le potenzialità di short e leverage sono state **sfruttate solo in senso speculativo**, ovvero per **aumentare l'esposizione al rischio** con l'obiettivo di ottenere rendimenti maggiori. Il **leverage** in particolare ha trovato terreno ideale grazie al **sempre maggiore utilizzo di strumenti derivati (futures, swap, opzioni)**». ⚠️ **Lo stesso strumento cambia funzione**: in Jones lo short **riduceva** il rischio — è l'origine del nome *hedge*, «copertura» —, oggi lo **aumenta**. Attribuire a Jones l'uso speculativo è un **segno invertito** perfettamente costruito.
+**Opzione:** La vendita allo scoperto e l'indebitamento per operare a multipli del patrimonio: in Jones lo short serviva a ridurre il rischio di mercato, in seguito entrambi sono stati sfruttati solo in senso speculativo, per aumentare l'esposizione.
+**Distrattori:**
+- La vendita allo scoperto e l'indebitamento per operare a multipli del patrimonio: in Jones servivano ad aumentare l'esposizione al rischio, in seguito entrambi sono stati usati solo per ridurre il rischio di mercato.
+- La vendita allo scoperto e l'indebitamento per operare a multipli del patrimonio: in Jones lo short serviva a ridurre il rischio di mercato, e tale funzione di copertura è rimasta invariata fino a oggi.
+- L'acquisto a termine e la diversificazione geografica del portafoglio: in Jones servivano a ridurre il rischio di mercato, in seguito sono stati sfruttati solo in senso speculativo.
+
+**D:** Quando si paga l'imposta sui fondi comuni?
+**R:** Slide 36: «**si paga al momento della percezione dei proventi**». La riforma: «fino al **30 giugno 2011** i fondi comuni sono stati soggetti ad **imposta sostitutiva del 12,50% sul risultato della gestione**; a partire dal **1° luglio 2011** la tassazione è stata **posta in capo ai singoli partecipanti al momento della percezione dei proventi**». ⚠️ La riforma del 2011 cambia **chi** paga (dal fondo al partecipante) e **quando** (alla percezione, non maturando): i fondi «lavorano **al lordo**» e la ritenuta la applica il **sostituto d'imposta**, «tipicamente **la banca**» ([00:13:30]). ⚠️ È la chiave della **domanda 4** del quiz.
+**Opzione:** Al momento della percezione dei proventi, in capo ai singoli partecipanti, dal 1° luglio 2011.
+**Distrattori:**
+- In forma anticipata al momento della sottoscrizione delle quote.
+- Ogni anno sulle plusvalenze maturate ma non ancora realizzate.
+- Non si paga nulla, perché i fondi comuni sono strumenti fiscalmente privilegiati.
+
+**D:** ⚠️ Con quale aliquota sono tassati i fondi comuni?
+**R:** Slide 37 (**DL 66/2014**, *Misure urgenti per la competitività e la giustizia sociale*; **art. 73 del TUIR**): «dal **1° luglio 2014** il prelievo fiscale sul reddito derivante da **fondi comuni d'investimento e gestioni patrimoniali individuali** è calcolato in base all'**aliquota del 26%**, **ad esclusione della componente derivante da titoli di Stato italiani ed equiparati e da titoli obbligazionari emessi da Stati ed enti territoriali esteri "white list"**, i cui redditi, **di capitale e diversi**, beneficiano dell'**aliquota al 12,50%**». ⚠️ **Il 12,50% compare due volte con significati opposti**: era l'aliquota **generale** fino al 30 giugno 2011, oggi è quella **agevolata** dei titoli di Stato e della *white list*. ⚠️ Sono **due riforme distinte**: il **2011** cambia *chi e quando*, il **2014** cambia *quanto*.
+**Opzione:** Al 26% dal 1° luglio 2014, tranne la componente da titoli di Stato italiani ed equiparati e da titoli di Stati ed enti territoriali esteri white list, al 12,50%.
+**Distrattori:**
+- Al 12,50% dal 1° luglio 2014, tranne la componente da titoli di Stato italiani ed equiparati e da titoli di Stati ed enti territoriali esteri white list, al 26%.
+- Al 26% dal 1° luglio 2011, tranne la componente da titoli di Stato italiani ed equiparati e da titoli di Stati ed enti territoriali esteri white list, al 20%.
+- Al 26% dal 1° luglio 2014 su tutte le componenti di reddito, senza alcuna esclusione.
+
+**D:** ⚠️ A quali organismi non si applica il regime fiscale del 26%?
+**R:** Slide 37, nota in evidenza: «**NB: Tale normativa non riguarda i fondi comuni di investimento immobiliari e le SICAV**». ⚠️ È una **coda esplicita** che il transcript **non pronuncia mai**, e riguarda proprio i **due istituti** trattati per esteso nella lezione 30: i **fondi immobiliari** (slide 28–31 di quel deck) e le **SICAV** (slide 37). ⚠️ Una coda in evidenza su una slide fiscale è materiale d'esame di prima scelta: la regola generale è al 26%, ma **non per tutti gli OICR**.
+**Opzione:** Ai fondi comuni di investimento immobiliari e alle SICAV.
+**Distrattori:**
+- Ai fondi comuni di investimento immobiliari e ai fondi hedge.
+- Alle SICAV e alle gestioni patrimoniali individuali.
+- A nessuno: il regime del 26% si applica a tutti gli organismi di investimento collettivo del risparmio.
+
+**D:** Quali operazioni sono assimilate alla vendita e quindi tassate?
+**R:** Slide 38: «sono soggetti a ritenuta i **proventi derivanti dal rimborso, cessione o liquidazione delle quote possedute**. Sono **assimilate ad operazioni di rimborso**: le **operazioni di switch**, i **trasferimenti di quote da un rapporto ad un altro diversamente intestato**». ⚠️ Lo **switch** — «vendere un fondo per comprarne un altro **all'interno di un singolo paniere di investimenti**» ([00:14:23]) — **realizza la plusvalenza anche se il denaro non esce**. ⚠️ Il trasferimento è tassato **solo se l'intestazione cambia**: spostare le quote fra due dossier **intestati alla stessa persona** non lo è.
+**Opzione:** Le operazioni di switch e i trasferimenti di quote da un rapporto a un altro diversamente intestato.
+**Distrattori:**
+- Le operazioni di switch e i trasferimenti di quote da un rapporto a un altro intestato alla stessa persona.
+- I soli trasferimenti di quote da un rapporto a un altro diversamente intestato, mentre lo switch è fiscalmente neutro.
+- Le operazioni di switch e la semplice sottoscrizione di nuove quote dello stesso fondo.
+
+**D:** Come si calcola la base imponibile su cui applicare la ritenuta?
+**R:** Slide 39: «la base imponibile su cui applicare la ritenuta è rappresentata dall'**ammontare della differenza, se positiva, tra il valore di riscatto delle quote e il costo medio ponderato di sottoscrizione (CMP)**». ⚠️ **Due precisazioni nella formula**: «**se positiva**» — una minusvalenza non genera imponibile — e «**costo medio ponderato**», non il primo né l'ultimo prezzo pagato. ⚠️ Il CMP serve perché le sottoscrizioni sono tipicamente **plurime e a prezzi diversi**.
+**Opzione:** Come differenza, se positiva, fra il valore di riscatto delle quote e il costo medio ponderato di sottoscrizione.
+**Distrattori:**
+- Come differenza, anche se negativa, fra il valore di riscatto delle quote e il costo medio ponderato di sottoscrizione.
+- Come differenza, se positiva, fra il valore di riscatto delle quote e il costo della prima sottoscrizione effettuata.
+- Come differenza, se positiva, fra il valore nominale delle quote e il costo medio ponderato di sottoscrizione.
+
+**D:** ⚠️ Che cos'è il L.I.E. e chi ne effettua il calcolo?
+**R:** Slide 40: «il **L.I.E.** è il **livello impositivo equalizzato** e serve per **determinare la misura precisa del prelievo fiscale**. Il **calcolo è complesso ma non è posto a carico del risparmiatore**: esso è **automatizzato da parte dell'intermediario finanziario**». Serve perché ogni fondo «mediamente avrà avuto **qualcosa tassabile al 26 e qualcosa tassabile al 12,50**» ([00:14:48]). ⚠️ È la **conseguenza operativa della doppia aliquota** della slide 37: senza le due aliquote non servirebbe. ⚠️ Due torsioni d'esame in agguato: è **impositivo equalizzato**, non «**europeo**»; e il calcolo **non è a carico dell'investitore**, ma dell'**intermediario finanziario**.
+**Opzione:** Il livello impositivo equalizzato, che determina la misura precisa del prelievo fiscale sui fondi detenuti; il calcolo è automatizzato dall'intermediario finanziario.
+**Distrattori:**
+- Il livello impositivo equalizzato, che determina la misura precisa del prelievo fiscale sui fondi detenuti; il calcolo è a carico dell'investitore.
+- Il livello impositivo europeo, che determina la misura precisa del prelievo fiscale sui fondi detenuti; il calcolo è automatizzato dall'intermediario finanziario.
+- Un meccanismo di tassazione a scaglioni previsto per i patrimoni superiori ai 30.000 euro; il calcolo è effettuato dalla banca depositaria.
+
+**D:** Qual è la fonte normativa principale della disciplina dei fondi mobiliari?
+**R:** Slide 41: il **Testo Unico della Finanza**, e in particolare l'**art. 36 — Fondi comuni di investimento**; accanto ad esso la **normativa CONSOB, Banca d'Italia, Ministero Economia e Finanza**, che il transcript qualifica come «normative **secondarie**… dove per singoli argomenti ci sono delle **specifiche importanti**» ([00:15:17]). ⚠️ È il **TUF**, non il **TUB**: la coppia è già stata il perno di più di un distrattore nel corso. ⚠️ Le fonti secondarie sono **tre soggetti**, non uno.
+**Opzione:** Il Testo Unico della Finanza, art. 36, più la normativa secondaria di Consob, Banca d'Italia e Ministero dell'Economia e delle Finanze.
+**Distrattori:**
+- Il Testo Unico Bancario, art. 36, più la normativa secondaria di Consob, Banca d'Italia e Ministero dell'Economia e delle Finanze.
+- Il Testo Unico della Finanza, art. 36, più la normativa secondaria della sola Banca d'Italia.
+- Il codice civile, art. 36, più la normativa secondaria di Consob, Banca d'Italia e Ministero dell'Economia e delle Finanze.
+
+**D:** ⚠️ Chi determina i criteri generali di redazione del regolamento del fondo?
+**R:** Slide 43 (art. 36, comma 2): «il **rapporto di partecipazione** al fondo comune di investimento è **disciplinato dal regolamento del fondo**. La **Banca d'Italia, sentita la Consob**, determina i **criteri generali di redazione del regolamento** del fondo **diverso dal FIA riservato** e il suo **contenuto minimo**, a integrazione di quanto previsto dall'**articolo 39**». ⚠️ È una **coppia soggetto + norma**: decide la **Banca d'Italia**, la **Consob** è **sentita** — l'inverso dell'iter di autorizzazione della **SIM** (lezione 13), dove è la Consob a decidere sentita la Banca d'Italia. ⚠️ Il transcript omette sia il «**sentita la Consob**» sia l'esclusione del «**FIA riservato**» ([00:15:53]).
+**Opzione:** La Banca d'Italia, sentita la Consob, per i fondi diversi dal FIA riservato, determinandone anche il contenuto minimo.
+**Distrattori:**
+- La Consob, sentita la Banca d'Italia, per i fondi diversi dal FIA riservato, determinandone anche il contenuto minimo.
+- La Banca d'Italia, sentito il Ministero dell'Economia e delle Finanze, per tutti i fondi comuni senza eccezioni, determinandone anche il contenuto minimo.
+- La società di gestione del risparmio che ha istituito il fondo, in piena autonomia, salvo approvazione della Banca d'Italia.
+
+**D:** ⚠️ Da che cosa è distinto il patrimonio di un fondo comune?
+**R:** Slide 45 (art. 36, comma 4): «ciascun fondo comune di investimento, **o ciascun comparto di uno stesso fondo**, costituisce **patrimonio autonomo, distinto a tutti gli effetti dal patrimonio della società di gestione del risparmio e da quello di ciascun partecipante, nonché da ogni altro patrimonio gestito dalla medesima società**; delle obbligazioni contratte per conto del fondo, **la Sgr risponde esclusivamente con il patrimonio del fondo medesimo**. Su tale patrimonio **non sono ammesse azioni dei creditori della società di gestione del risparmio o nell'interesse della stessa, né quelle dei creditori del depositario o del sub depositario**». ⚠️ **La separazione è quadrupla**: dalla **SGR**, da **ciascun partecipante**, da **ogni altro patrimonio gestito** dalla stessa società e, per comparti, dagli **altri comparti**. ⚠️ **I creditori esclusi sono due categorie**: quelli della **SGR** *e* quelli del **depositario o sub depositario**. ⚠️ La lezione 30 ne aveva vista solo la prima parte.
+**Opzione:** Dal patrimonio della SGR, da quello di ciascun partecipante e da ogni altro patrimonio gestito dalla medesima società; e ciascun comparto è distinto dagli altri comparti dello stesso fondo.
+**Distrattori:**
+- Dal solo patrimonio della SGR, mentre resta confuso con quello di ciascun partecipante e con gli altri patrimoni gestiti dalla medesima società.
+- Dal patrimonio della SGR e da quello di ciascun partecipante, ma non dagli altri patrimoni gestiti dalla medesima società, che formano una massa unica.
+- Dal patrimonio della SGR, da quello di ciascun partecipante e da ogni altro patrimonio gestito dalla medesima società, salvo che i creditori della SGR possano rivalersi su di esso.
+
+**D:** Le quote di partecipazione a un fondo comune sono nominative o al portatore?
+**R:** Slide 46 (art. 36, comma 5): «le **quote di partecipazione ai fondi comuni sono nominative o al portatore, secondo quanto previsto nel regolamento del fondo**». ⚠️ Sono **entrambe le forme**, e la scelta spetta al **regolamento del fondo**: un'opzione che ne imponga una sola è una **restrizione dell'ambito**, e una che sposti la scelta su un altro soggetto — la SGR, la Banca d'Italia, il sottoscrittore — sbaglia il **soggetto**.
+**Opzione:** Nominative o al portatore, secondo quanto previsto nel regolamento del fondo.
+**Distrattori:**
+- Sempre e soltanto nominative, secondo quanto previsto nel regolamento del fondo.
+- Nominative o al portatore, secondo quanto previsto di volta in volta dalla Banca d'Italia.
+- Nominative o al portatore, secondo la scelta effettuata dal sottoscrittore all'atto della sottoscrizione.
+
+**D:** Quanto vale il risparmio gestito mondiale e come si ripartisce?
+**R:** Slide 48 (*Global AuM USD Trillion*, fonte **PwC**): **37,3 trilioni di dollari nel 2004**, **59,4 nel 2007**, **63,9 nel 2012**, **101,7 stimati per il 2020** — «una crescita di **quasi tre volte**» ([00:16:55]). La ripartizione al 2020: **mandates 47,5 (~47%)** · **mutual funds 41,2 (~40%)** · **alternatives 13,0 (~13%)**. ⚠️ **I mandati superano i fondi comuni**, come già sul dato italiano della lezione 30 (gestioni di portafoglio **51,5%** contro collettive **48,5%**). ⚠️ Il dato più eloquente non è citato dal docente: la gestione **passiva** dei mutual funds passa da **1,0 a 10,5 trilioni** — **decuplica** — mentre l'**attiva** raddoppia appena.
+**Opzione:** Circa 101,7 trilioni di dollari stimati al 2020, da 37,3 nel 2004, ripartiti in mandati di gestione individuale circa 47%, fondi comuni circa 40% e alternativi circa 13%.
+**Distrattori:**
+- Circa 101,7 trilioni di dollari stimati al 2020, da 37,3 nel 2004, ripartiti in fondi comuni circa 47%, mandati di gestione individuale circa 40% e alternativi circa 13%.
+- Circa 101,7 miliardi di dollari stimati al 2020, da 37,3 nel 2004, ripartiti in mandati di gestione individuale circa 47%, fondi comuni circa 40% e alternativi circa 13%.
+- Circa 63,9 trilioni di dollari stimati al 2020, da 37,3 nel 2004, ripartiti in mandati di gestione individuale circa 13%, fondi comuni circa 40% e alternativi circa 47%.
+
+**D:** ⚠️ Quanto gestiscono le prime venti società di asset management del mondo?
+**R:** Slide 49: «**the global top 20 asset management firms all have at least $1 trillion of funds**» — **almeno un trilione di dollari ciascuna**. In testa **BlackRock, Vanguard, State Street Global** e **Fidelity**; la slide commenta che «il mercato è **molto concentrato anche per le notevoli economie di scala**». 🚨 **Il transcript dice «almeno un miliardo»** ([00:17:20]): è un errore di **tre ordini di grandezza**, lo stesso già occorso alla **lezione 26**, dove il mercato obbligazionario globale «superiore ai **100 trilioni**» era stato detto «100 **miliardi**». ⚠️ Quando un ordine di grandezza suona implausibile, **vale la slide**: un miliardo di dollari non farebbe di nessuna società una delle prime venti al mondo.
+**Opzione:** Almeno un trilione di dollari ciascuna, con BlackRock, Vanguard e State Street Global in testa.
+**Distrattori:**
+- Almeno un miliardo di dollari ciascuna, con BlackRock, Vanguard e State Street Global in testa.
+- Almeno un trilione di dollari ciascuna, con Amundi, Generali e Eurizon in testa.
+- Almeno cento miliardi di dollari ciascuna, con BlackRock, Vanguard e State Street Global in testa.
+
+**D:** Dove si concentrano geograficamente i più grandi gestori patrimoniali del mondo?
+**R:** Slide 50: «la maggior parte… si trova in un **piccolo corridoio nel nord-est degli Stati Uniti**. **Otto delle 14 aziende che gestiscono $ 1 T o più** si trovano nelle aree di **New York, Boston o Filadelfia**. Questi includono i **cinque maggiori gestori patrimoniali: BlackRock, Vanguard, Fidelity, J.P. Morgan e BNY Mellon**. **Altre tre** si trovano in altre parti degli Stati Uniti e **quattro all'estero**, una in **Francia, Regno Unito, Giappone e Norvegia**». ⚠️ **L'aritmetica della slide non torna**: 8 + 3 + 4 = **15**, non 14. Va riportata **com'è**. ⚠️ I **cinque maggiori sono tutti statunitensi** e tutti nel corridoio nord-orientale.
+**Opzione:** Nel corridoio nord-orientale degli Stati Uniti: otto delle 14 sopra il trilione stanno fra New York, Boston e Filadelfia, altre tre altrove negli USA e quattro all'estero.
+**Distrattori:**
+- Nel corridoio nord-orientale degli Stati Uniti: otto delle 14 sopra il trilione stanno fra San Francisco, Los Angeles e Seattle, altre tre altrove negli USA e quattro all'estero.
+- In Europa: otto delle 14 sopra il trilione stanno fra Londra, Parigi e Francoforte, altre tre altrove in Europa e quattro negli Stati Uniti.
+- Nel corridoio nord-orientale degli Stati Uniti: quattro delle 14 sopra il trilione stanno fra New York, Boston e Filadelfia, altre tre altrove negli USA e otto all'estero.
+
+**D:** Quali paesi gestiscono il risparmio europeo?
+**R:** Slide 52 (**EFAMA**, *European Assets under Management at End 2017*, miliardi di euro e % del totale): **Regno Unito 8.670 (36,5%)** · **Francia 4.142 (17,4%)** · **Germania 2.161 (9,1%)** · **Svizzera 1.887 (7,9%)** · **Italia 1.294 (5,4%)** · **Danimarca 425 (1,8%)** · **Spagna 409 (1,7%)** · **resto d'Europa 4.763 (20,1%)**. ⚠️ Il commento del docente: «la **Brexit** potrà cambiare notevolmente questa distribuzione, probabilmente favorendo **Francia e Germania**, che sono in questo momento la **seconda e la terza** per asset» ([00:18:59]). ⚠️ Il **Regno Unito da solo vale più di un terzo** del risparmio gestito europeo.
+**Opzione:** Il Regno Unito con 8.670 miliardi e il 36,5%, poi Francia 17,4%, Germania 9,1%, Svizzera 7,9% e Italia 5,4%.
+**Distrattori:**
+- La Francia con 8.670 miliardi e il 36,5%, poi Regno Unito 17,4%, Germania 9,1%, Svizzera 7,9% e Italia 5,4%.
+- Il Regno Unito con 8.670 miliardi e il 36,5%, poi Germania 17,4%, Francia 9,1%, Italia 7,9% e Svizzera 5,4%.
+- Il Regno Unito con 8.670 miliardi e il 15%, poi Francia 12%, Germania 11%, Svizzera 10% e Italia 9%.
+
+**D:** ⚠️ Quale paese europeo ha la clientela più internazionale, e quale la più domestica?
+**R:** Slide 53 (**EFAMA**, *Domestic and Foreign Clients at End 2017*, % di AuM): il **Regno Unito** è il più internazionale, con **solo il 60% di clientela domestica** — quindi il **40% estera** —, mentre **Spagna** e **Germania** stanno al **98%** domestico, e **Portogallo** e **Turchia** al **99%**. La media **europea** è **74%**. ⚠️ Il Regno Unito è **l'unico paese sotto i due terzi**: «questo fa capire la **differenza di proposizione dei servizi finanziari**» ([00:19:28]). ⚠️ È lo stesso paese che gestisce il **36,5%** dell'AuM europeo (slide 52): gestisce molto **anche perché gestisce per altri**.
+**Opzione:** Il Regno Unito, con il 40% di clientela estera; la Spagna è al 98% domestica, contro una media europea del 74%.
+**Distrattori:**
+- La Spagna, con il 40% di clientela estera; il Regno Unito è al 98% domestico, contro una media europea del 74%.
+- Il Regno Unito, con il 40% di clientela estera; la Spagna è al 60% domestica, contro una media europea del 90%.
+- La Germania, con il 40% di clientela estera; il Regno Unito è al 98% domestico, contro una media europea del 74%.
+
+**D:** Quanto è retail il mercato italiano dei fondi rispetto agli altri paesi europei?
+**R:** Slide 54 (**EFAMA**, *Investment Funds by Client Type at End 2017*, quota **retail** dell'AuM dei fondi): l'**Italia è al 78%**, nella metà alta della classifica. Agli estremi: **Francia 45%** e **Germania 46%** (i più istituzionali), **Croazia 98%**, **Romania 97%** e **Ungheria 96%** (i più retail). Nel mezzo **Austria 57% · Turchia 63% · Danimarca 66% · Belgio 75% · Portogallo 84% · Grecia 89%**. ⚠️ Il transcript legge la classifica dal basso: «**fino all'Italia**, quindi Grecia, Portogallo, Slovenia, Ungheria, si tratta soprattutto di **clienti retail**; se andiamo verso i paesi del **Nord Europa**… gli **istituzionali** sono i grandi sottoscrittori» ([00:19:49]).
+**Opzione:** L'Italia è al 78% retail; i più istituzionali sono Francia (45%) e Germania (46%), i più retail Croazia (98%), Romania (97%) e Ungheria (96%).
+**Distrattori:**
+- L'Italia è al 45% retail; i più istituzionali sono Croazia (98%) e Romania (97%), i più retail Francia (78%) e Germania (96%).
+- L'Italia è al 78% istituzionale; i più retail sono Francia (45%) e Germania (46%), i più istituzionali Croazia (98%) e Romania (97%).
+- L'Italia è al 98% retail, la quota più alta d'Europa, davanti a Croazia (78%), Romania (46%) e Francia (45%).
+
+**D:** Come è investito il risparmio gestito europeo?
+**R:** Slide 55 (**EFAMA**, *Asset Allocation at End 2017*, % del totale AuM): **bond 40% · equity 32% · other 22% · cash/money market instrument 7%**. Il transcript sintetizza: «la gran parte dell'asset under management è in **obbligazioni** e **cash**, l'**equity** rappresenta in Europa **poco più del 30%**» ([00:19:49]) — ed è la lettura giusta: **bond + cash = 47%** contro il **32%** dell'equity. ⚠️ L'**azionario non è la voce principale**: in Europa il risparmio gestito è **prevalentemente obbligazionario**.
+**Opzione:** Bond 40%, equity 32%, other 22% e cash o strumenti del mercato monetario 7%.
+**Distrattori:**
+- Equity 40%, bond 32%, other 22% e cash o strumenti del mercato monetario 7%.
+- Bond 40%, equity 32%, cash o strumenti del mercato monetario 22% e other 7%.
+- Bond 60%, equity 20%, other 15% e cash o strumenti del mercato monetario 5%.
+
+**D:** Quante sono le società di gestione del risparmio in Europa e come si distribuiscono?
+**R:** Slide 56 (**EFAMA**, *Number of Asset Management Companies*, **2017**): **4.393 in Europa**. I primi paesi: **Regno Unito 1.100 · Francia 630 · Germania 380 · Lussemburgo 304 · Italia 256 · Irlanda 253 · Paesi Bassi 236 · Svizzera 210**. ⚠️ **La classifica per numero di società non coincide con quella per masse**: il **Lussemburgo** è quarto per società ma non compare fra i primi per AuM; la **Svizzera**, **quarta per masse** (1.887 miliardi), è **ottava per numero di società**. ⚠️ Il transcript arrotonda correttamente: «poco più di **4.000** società», «in Italia circa **250**» ([00:20:26]).
+**Opzione:** 4.393 in Europa, con Regno Unito 1.100, Francia 630, Germania 380, Lussemburgo 304 e Italia 256.
+**Distrattori:**
+- 4.393 in Europa, con Francia 1.100, Regno Unito 630, Germania 380, Italia 304 e Lussemburgo 256.
+- 439 in Europa, con Regno Unito 110, Francia 63, Germania 38, Lussemburgo 30 e Italia 25.
+- 4.393 in Europa, con Regno Unito 1.100, Germania 630, Francia 380, Italia 304 e Lussemburgo 256.
+
+**D:** ⚠️ Che cosa c'è di sbagliato nella slide 11 della lezione 31?
+**R:** **L'etichetta contraddice il contenuto della slide stessa.** Il riquadro a sinistra dice «settore delle **energie fossili**», ma il prospetto riprodotto accanto è quello di **Pictet-Clean Energy R EUR**, categoria Morningstar «**Azionari Settore Energie Alternative**», benchmark **S&P Global Clean Energy TR USD**, il cui obiettivo dichiarato è investire in società «che contribuiscono e beneficiano della **transizione verso una produzione e un consumo di energia meno basati sulle energie fossili**». ⚠️ **Il corpo della slide prevale sulla sua etichetta**, e qui il **transcript è corretto**: il docente dice «energie **pulite**» ([00:03:14]). ⚠️ Poiché le opzioni d'esame sono citazioni letterali delle slide, un'opzione potrebbe riprodurre proprio l'etichetta sbagliata: le **fossili sono ciò da cui si esce**, non l'oggetto dell'investimento.
+
+**D:** ✅ Quali chiavi del quiz della lezione 31 sono risultate sbagliate?
+**R:** **Nessuna.** Tutte e cinque le chiavi della piattaforma sono **verificate corrette** sulle slide: domanda 1 sulla **slide 3** (diversificazione), domanda 2 sulle **slide 15–20** (le cinque macro categorie Assogestioni), domanda 3 sulla **slide 29** (le fonti degli hedge fund italiani), domanda 4 sulla **slide 36** (tassazione alla percezione dei proventi), domanda 5 sulla **slide 40** (il L.I.E.). ⚠️ Con la lezione 31 il corso si chiude a **10 chiavi difformi su 31 lezioni**, e la coda è **27–28 pulite · 29 difforme · 30–31 pulite**. ⚠️ La serie pulita finale **non cambia il giudizio complessivo**: il profilo del corso resta irregolare, e le prime sei lezioni ne avevano **cinque difettose su sei**.
+
+**D:** ⚠️ Su quali meccanismi lavorano i distrattori della lezione 31?
+**R:** Su **tre**, tutti già catalogati. ① **Coda sostituita sull'ultima voce di un elenco**: la domanda 2 cambia «fondi **flessibili**» in «fondi **inflessibili**», parola che non esiste nella classificazione Assogestioni. ② **Negazione o inversione di un solo elemento**: la domanda 5 sposta il calcolo del L.I.E. «a carico dell'**investitore**» invece che dell'intermediario — la slide 40 dice esattamente il contrario, «**non è posto a carico del risparmiatore**». ③ **Oggetto scambiato sul nome**: sempre nella domanda 5, il «livello impositivo **europeo**» al posto di «**equalizzato**» — il L.I.E. non ha nulla di europeo, serve a mediare **due aliquote italiane**, il 26% e il 12,50%. ⚠️ La domanda 1 aggiunge un quarto caso, la **promessa impossibile**: «rendimenti **garantiti** superiori e **certamente positivi**» — nessuna slide del corso promette mai un rendimento, e **una garanzia di rendimento in un'opzione è quasi sempre un distrattore**.
